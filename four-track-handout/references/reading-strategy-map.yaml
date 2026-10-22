@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "books": {
+    "B1": {"U1":"part-whole","U2":"description-and-spatial-order","U3":"referential-ties","U4":"news-5W1H","U5":"narration-and-plot","U6":"topic-sentence"},
+    "B2": {"U1":"compare-and-contrast","U2":"major-and-minor-details","U3":"adjective-adverb-description","U4":"recipe-and-headings","U5":"time-order","U6":"mixed-text-patterns"},
+    "B3": {"U1":"FiRST-main-topic","U2":"mind-map","U3":"summarizing","U4":"timeline","U5":"scanning","U6":"note-taking"},
+    "B4": {"U1":"problem-solution-and-markers","U2":"narrative-letter","U3":"author-purpose-and-tone","U4":"general-and-specific","U5":"exemplification","U6":"argumentation-claim-reason-counterclaim-response"},
+    "B5": {"U1":"letter-repetition-paraphrase","U2":"proposition-and-support","U3":"predicting-and-cause-effect","U4":"definition","U5":"sequence-and-scanning","U6":"narration-and-plot"},
+    "B6": {"U1":"summarizing-and-process","U2":"transitional-words"}
+  }
+}
+
