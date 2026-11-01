@@ -8,7 +8,17 @@ filename: 115-1_G8_B3_U4_Reading_LoiLo卡片
 cover: true
 title: 🎤 U4 Reading: IU's Story
 統整卡 Summary Cards · S1–S4 共用
-Timeline (時間軸) · decide to V / besides V-ing · Don't give up!
+❓ Is being good at something enough? · Timeline (時間軸) · decide to V / besides V-ing
+
+=== card
+tag: Big Question
+title: ❓ Our Big Question 核心問題
+[box]
+**Is being good at something enough to make a dream come true?**
+很會做某件事，就足以實現夢想嗎？
+[/box]
+- In the Dialogue, Yuki is good at singing. But she gets butterflies. 對話裡的 Yuki 很會唱，卻會緊張。
+- Now read IU's story. IU is good at singing, too. Is that enough for her? 讀 IU 的故事：她也很會唱，這樣就夠了嗎？
 
 === card
 tag: T1 Strategy Lab
@@ -61,7 +71,16 @@ title: 🎯 Main idea & reading between the lines
 Main idea 主旨：IU didn't [[give up]] on her dream and became a [[successful singer]].
 [/box]
 - "She often gives her money to those in need." → IU is {{kind* / rich / thankful}}.
-- "She is a good [[example]] for young people." → 年輕人的好榜樣
+- Why is she "a good example for young people"? → She [[didn't give up]], and she [[gives money to those in need]].
+
+=== card
+tag: T2 IU and Yuki
+title: 🔗 IU (Reading) and Yuki (Dialogue)
+| | IU (Reading) | Yuki (Dialogue) |
+|---|---|---|
+| What is she good at? | [[singing]] | [[singing]] |
+| What problem did she have? | [[Her relatives made fun of her dream.]] | [[She gets butterflies in front of people.]] |
+| What else did she need besides talent? | [[keep trying / not give up]] | [[keep practicing / be brave]] |
 
 === card
 tag: T2 Grammar
@@ -102,26 +121,41 @@ A good main idea covers the **whole** timeline, not one stop. 主旨要涵蓋整
 
 === card
 tag: T3 What It Takes
-title: 🏆 What does it take to be successful?
+title: 🏆 Talent is not enough. What else does it take?
 | Thing it takes | Our votes 全班投票 |
 |---|---|
 | 💪 hard work 努力 | ______ |
 | ❤️ passion 熱忱 | ______ |
 | 🔥 determination 毅力 | ______ |
-| 🌟 talent 天賦 | ______ |
 | 🍀 luck 運氣 | ______ |
+| 🤝 help from others 別人的幫忙 | ______ |
 IU's secret：She went to about twenty auditions → [[hard work]] and [[determination]]!
 
 === card
 tag: T3 My Dream Timeline
+compact: true
 title: 🗺️ My Dream Timeline
 | Time | Model sentence 示範句 |
 |---|---|
+| 🌟 Good at … | I am good at [[cooking]], but that is not enough. |
 | 🚃 Now | Now, I [[practice English]] every day. |
 | 🚃 In 2030 | In 2030, I plan to [[go to a cooking school]]. |
 | 🚃 In 2035 | In 2035, I want to be a [[cook]]. |
 | 💬 It takes … | It takes [[hard work]] and [[passion]]. |
 | 💪 If people make fun of my dream … | I will not [[give up]]! |
+
+=== card
+tag: Big Question
+title: ❓ Is being good at something enough?
+| | IU | Yuki | Ming |
+|---|---|---|---|
+| Good at … | [[singing]] | [[singing]] | [[fixing things]] |
+| But … | Her relatives [[made fun of her dream]]. | She gets [[butterflies]]. | His robot [[stopped working]]. |
+| Also needs to … | [[keep trying]] (20 auditions) | [[keep practicing]] | [[work on his robot every day]] |
+[box]
+Task 5 notes: I used to think [[talent is enough@last]].
+Now I think [[I also need to keep trying and never give up@last]].
+[/box]
 
 === card
 tag: S4 Word Stress

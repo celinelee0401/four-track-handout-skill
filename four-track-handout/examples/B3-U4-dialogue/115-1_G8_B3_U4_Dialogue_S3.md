@@ -5,143 +5,187 @@ filename: 115-1_G8_B3_U4_Dialogue_S3
 ---
 
 # Part 1: Dialogue - Our Dream Jobs
-Goal (目標): I can say each person's dream job. 我能說出每個人的夢想職業，並用 **want to / enjoy V-ing** 說句子。
+Goal (目標): I can say each person's dream job and why. 我能說出每個人的夢想職業和原因。 I can decide if being good at something is enough for a dream. 我能判斷「很會」夠不夠讓夢想成真，並說出原因。 I can use **want to / enjoy V-ing**. I can give other tables kind feedback. 我能在小組牆給其他桌友善的回饋。
+[box]
+❓ **Big Question:** Is being good at something enough to make a dream come true?
+核心問題：很會做某件事，就足以實現夢想嗎？
+[/box]
 
 ## Task 1: See-Think-Wonder (觀察・推論・提問)
 flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
 step: 👤 Look at the pictures on pp. 69-70. 看課本第 69–70 頁的圖。
-step: 🧠 In each row, circle one word. Write it in the sentence. 每列圈一個字，再寫進句子。
-widths: 22 30 48
-| Picture (圖) | Circle (圈選) | Fill & Say it (填寫並說出) |
-|---|---|---|
-| p. 69, the boy in green | {{video* / cake}} | He is making a [[video|8]]. |
-| p. 69, the boy in blue | {{doctors / lawyers*}} | He is thinking about [[lawyers|10]]. |
-| p. 70, the girl's bubble | {{fan* / book}} | She is singing with a [[fan|6]] in front of her face. |
-| p. 70, the girl's bubble | {{hat / wig*}} | She is wearing a big orange [[wig|6]]. |
-step: 🧠 Circle how the girl feels. Write a Wonder question. 圈出感受，寫一個想知道的問題。
-🤔 Think: How does the girl feel? 她覺得怎樣？ Circle one: ( happy / nervous / angry )
-I think she feels __________. 
-❓ Wonder: I wonder __________________________________. (我想知道……)
-key: Think 合理答案 nervous（遮臉）；Task 2 揭曉：she gets butterflies。Wonder 開放。
+step: 🧠 Finish each sentence. Use the Word Bank. There are 2 extra words. 用 Word Bank 完成句子，有 2 個字用不到。
+Word Bank: video / lawyers / fan / wig / cake / doctors
+widths: 30 70
+| Picture (圖) | Write & Say it (寫下並說出) |
+|---|---|
+| p. 69, the boy in green | He is making a [[video|8]]. |
+| p. 69, the boy in blue | He is thinking about [[lawyers|10]]. |
+| p. 70, the girl's bubble | She is singing with a [[fan|6]] in front of her face. |
+| p. 70, the girl's bubble | She is wearing a big orange [[wig|6]]. |
+step: 🧠 Look at the girl on p. 70. How does she feel? Why? Write a Wonder question. 她覺得怎樣？為什麼？再寫一個想知道的問題。
+🤔 Think: I think she feels [[nervous|12]] because she [[covers her face|20]].
+❓ Wonder: I wonder [[why she is nervous|30]]. (我想知道……)
+key: Think 合理答案 nervous / shy（遮臉）；Task 2 揭曉：she gets butterflies。Wonder 開放。
 
-step: 👥 Check with a partner. 和夥伴核對。
+step: 👥 Read your Think to a partner. Show your partner the clue (線索) in the picture. 把你的 Think 唸給夥伴聽，指出圖中線索。
 step: 📢 Say one sentence to your group. 對組員說一句。
 step: 📋 Listen to your teacher. 聽老師統整。
-## Task 2: Dialogue Listening - Who Wants to Be What?
+## Task 2: Dialogue Listening - Is Being Good Enough?
 flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
-step: 👤 Close your book. Listen to the Dialogue. (CD2: 20-23) 闔上課本，聽對話。
-step: 🧠 First time: check (✓) the boxes in A. 第一次聽：在 A 打勾。
-### ■ A. Check the Facts (勾選事實)
-widths: 26 37 37
-| Who | Choose the dream job (選出夢想職業) | |
-|---|---|---|
-| Zac | [[x]] YouTuber (影片創作者) | □ writer (作家) |
-| Cody | □ singer (歌手) | [[x]] lawyer (律師) |
-| Yuki | [[x]] singer (歌手) | □ lawyer (律師) |
-| Yuki's problem (困擾) | [[x]] She is nervous. (緊張) | □ She is sick. (生病) |
+In Task 1, you guessed about the 3 students. Now listen and check. 在任務一你猜了三個人的事，現在聽聽看猜對了沒。
+step: 👤 Close your book. Listen to the Dialogue 2 times. (CD2: 20-23) 闔上課本，聽對話兩次。
+step: 🧠 Fill in the chart in A. Use the Word Bank. There are extra words. 用 Word Bank 完成 A，有些字用不到。
+### ■ A. Dream Job Chart (夢想職業表)
+Job Bank: YouTuber / lawyer / singer / writer / doctor
+Reason Bank: enjoys making videos / is good at singing / wants to help people / likes reading books / hates singing
+Type Bank: enjoy / good at / help
+widths: 14 20 44 22
+| Who | Dream job | Why? (原因) | Type (類型) |
+|---|---|---|---|
+| Zac | [[YouTuber|12]] | He [[enjoys making videos|26]]. | [[enjoy|10]] |
+| Cody | [[lawyer|12]] | He [[wants to help people|26]]. | [[help|10]] |
+| Yuki | [[singer|12]] | She [[is good at singing|26]]. | [[good at|10]] |
+key: Reason Bank 的 hates singing 是陷阱：Yuki 討厭的是「在人前唱」，不是唱歌。
 
-step: 🧠 Second time: fill in B. Use the Word Bank. 第二次聽：用 Word Bank 完成 B。
-### ■ B. Word Bank Sentences (填入關鍵字)
-Word Bank: making / help / singer / front / worry / wig
-1. I enjoy [[making|10]] videos, and I hope to be a famous YouTuber one day.
-2. I want to [[help|8]] people in need and fight for their rights.
-3. Being a [[singer|10]] is my dream job.
-4. But I hate singing in [[front|8]] of people.
-5. Don't [[worry|8]]. Just keep practicing.
-6. Or you can put on a big [[wig|6]], and then you can't see people.
+step: 👤 Open your book to pp. 69-70. Read Yuki's part again. 打開課本，再讀 Yuki 的話。
+step: 🧠 Answer Questions 1-4 in B. 回答 B 的第 1–4 題。
+### ■ B. Yuki: Is Being Good Enough? (很會就夠了嗎？)
+1. Yuki is good at singing. What is her problem? Copy her words from the Dialogue. 她的困擾是什麼？從對話抄出她說的話。
+But I hate singing [[in front of people|30]].
+"I get butterflies in my stomach" means she feels [[nervous|12]]. (Write 1 word. 寫一個字)
+2. Why is this a big problem for a singer? 為什麼這對歌手是大問題？　( [[A|3]] )
+(A) Singers often sing in front of many people.
+(B) Singers need to make videos for YouTube.
+(C) Singers have to fight for people's rights.
+3. Zac and Cody give Yuki advice (建議). Write their advice from the Dialogue. 寫出建議。
+Zac: Just keep [[practicing|14]].　　Cody: Put on a big [[wig|8]].
+Which advice can help Yuki more in the future? Choose a reason, or write your own. 哪個建議長遠來說比較有幫助？選一個理由，或自己寫。
+Reason Bank: practicing makes her brave / she can't wear a wig every time / a wig is funny / people can't see her
+I think [[Zac's|10]] advice is better because [[practicing makes her brave|34]].
+key: 兩種都可接受，但理由要和所選的建議相符。合理：Zac's → practicing makes her brave / she can't wear a wig every time。people can't see her 不正確（是 Yuki 看不到別人）。
+4. 💡 Big Question: Is being good at singing enough for Yuki? 很會唱歌，就夠讓 Yuki 當歌手嗎？
+I think {{yes / no}}, because Yuki [[gets butterflies in front of people|36]].
+She also needs to [[keep practicing|28]].
+key: Yes / No 皆可；需用對話內容支持。範例：No, because she gets butterflies in front of people. She also needs to keep practicing.
 
-step: 🧠 Circle the right words in C. 在 C 圈出正確的字。
+step: 🧠 Do Grammar 1-3 in C. 完成 C 的文法題。
 ### ■ C. Grammar: to V or V-ing?
-Circle the right word. 圈出正確的字。
-1. Zac enjoys {{to make / making*}} videos.
-2. Zac hopes {{to be* / being}} a famous YouTuber.
-3. Cody plans {{to be* / being}} a lawyer.
-4. Yuki, just keep {{to practice / practicing*}}.
-[box]
-💡 want / hope / plan ＋ **to V**　　enjoy / keep ＋ **V-ing**
-[/box]
+1. Look at the Dialogue. What comes after each word? Write it. 這些字後面接什麼？
+enjoy [[making|8]]　hope [[to be|6]]　plan [[to be|6]]　keep [[practicing|9]]　hate [[singing|8]]
+Now sort the 5 words. 把這 5 個字分類。
+widths: 50 50
+| + **to V** | + **V-ing** |
+|---|---|
+| [[hope, plan|20]] | [[enjoy, keep, hate|24]] |
+2. One sentence is wrong. Find it and fix it. 有一句錯了，找出來並改正。
+(A) Zac enjoys making videos.　(B) Yuki needs practicing every day.　(C) Cody wants to help people.
+Wrong: ( [[B|3]] )　Fix: Yuki needs [[to practice|14]] every day.
+3. Write one sentence for Yuki. Use **keep + V-ing**. 用 keep＋V-ing 給 Yuki 一句鼓勵。
+Yuki, keep [[singing for your family|30]]!
 
-step: 👤 Open your book to pp. 69-70. Find the words. 打開課本找答案。
-step: 👥 Check with a partner. 和夥伴核對。
-step: 📋 Listen to your teacher. 聽老師統整夢想職業表。
-## Task 3: Butterflies? Keep Practicing! & 4-3-2 Fluency (緊張也沒關係・流暢口說)
+step: 👥 Compare B3 and B4 with a partner. Read your reason. If your answers are different, ask "Why?" 和夥伴比較第 3、4 題，唸出你的理由；答案不同時問對方「為什麼？」
+step: 👥 Check C with your partner. Fix your answers. 和夥伴核對 C，訂正。
+step: 📋 Listen to your teacher. 聽老師統整。
+## Task 3: Keep Practicing! & 4-3-2 Fluency (持續練習・流暢口說)
 flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
 
-### Part A: Butterflies in My Stomach (SEL 反思)
-step: 👤 Read Yuki's words: "I get butterflies in my stomach." 讀 Yuki 說的話。
-step: 🧠 Check (✓) your answers in 1-3. Fill in the sentence. 勾選並完成句子。
-1. "I get butterflies in my stomach" means: 意思是：  □ I am hungry. (餓了)  [[x]] I am nervous. (緊張)
-2. I get butterflies when … Check 1 or more. 我在……的時候會緊張，勾一個以上。
-□ I take a test. (考試)   □ I sing or talk in front of people. (在大家面前唱歌或說話)   □ I meet new friends. (認識新朋友)
-3. Help Yuki! What can she do? Check 2. 幫幫 Yuki！勾 2 個。
-□ Keep practicing. (持續練習)   □ Take a deep breath. (深呼吸)   □ Stop singing. (不要唱了)   □ Sing for her family first. (先唱給家人聽)
-key: 第 2 題依學生經驗；第 3 題合理答案：Keep practicing. / Take a deep breath. / Sing for her family first.；不選 Stop singing.
-Yuki, don't [[worry|8]]. You can ______________________________.
+### Part A: Good at It, but Nervous? (很會，但會緊張？)
+Yuki is good at singing, but she gets nervous. Is it the same for you? Yuki 很會唱歌，卻會緊張。你也有這樣的時候嗎？
+step: 👤 Think of one thing you are good at. 想一件你很會做的事。
+step: 🧠 Finish sentences 1 and 2. Use the Idea Bank, or write your own. 完成第 1、2 句，可用 Idea Bank 或自己寫。
+Idea Bank: drawing / playing basketball / singing / reading English / talk in class / take a test / sing for your family first / take a deep breath / stop singing / sing with a friend
+1. I am good at [[drawing|18]], but I get butterflies when I [[talk in class|20]].
+2. Yuki, don't worry. You can [[sing for your family first|26]]. It helps because [[your family loves you|26]].
+key: 第 2 句不選 stop singing（放棄夢想）。理由合理即可：they love you / you won't be nervous / it is easy to do。
 
-step: 👥 Read your answers to a partner. 唸給夥伴聽。
+step: 👥 Read your answers to your table. Choose 1 idea for Yuki. 同桌選一個點子。
+step: 📢 Scan the QR on the screen. Find your table's card, like 801-T3. 掃 QR 找到自己桌。
+step: 📢 Write your idea as a comment. Use 801-T3 as your name. 把點子寫在留言，名字寫 801-T3。
+step: 🧠 Read the cards of 2 other tables. Write a sandwich for each. 讀兩桌的卡，寫回饋。
+small-table
+widths: 14 86
+| Table | My Sandwich 三明治回饋 |
+|---|---|
+| T____ | 🍞 I like your idea. It is ______________. (easy to do 容易做 / new 新的 / kind 貼心)<br>🥩 Maybe Yuki can also ______________________________.<br>🍞 ______________________! (Yuki can do it! / Good luck, Yuki!) |
+| T____ | 🍞 I like your idea. It is ______________. (easy to do 容易做 / new 新的 / kind 貼心)<br>🥩 Maybe Yuki can also ______________________________.<br>🍞 ______________________! (Yuki can do it! / Good luck, Yuki!) |
+key: 範例：easy to do／Maybe Yuki can also take a deep breath.／Yuki can do it! 中間可用 Part A Idea Bank 的另一個點子。
+step: 📢 Type your sandwich as a comment on their card. 把三明治留在他們的卡下。
 ### Part B: My Dream Job (4-3-2 口說)
-step: 👤 Think about your dream job. 想想你的夢想職業。
+step: 👤 Think about your dream job. Is being good at something enough? 想想你的夢想職業：只是很會就夠嗎？
 step: 🧠 Fill in the frames. Use the Idea Bank. 用 Idea Bank 完成句框。
-Idea Bank: teacher 老師 / vet 獸醫 / singer 歌手 / YouTuber / drawing 畫畫 / cooking 做菜 / playing games 玩遊戲 / helping people 幫助人
+Idea Bank: teacher 老師 / vet 獸醫 / singer 歌手 / YouTuber / drawing 畫畫 / cooking 做菜 / playing games 玩遊戲 / helping people 幫助人 / English 英文
 widths: 26 74
 | Choice Guide | Sentence frame (句框) |
 |---|---|
 | Dream job 夢想職業 | I want to be a ______________________________. |
-| I enjoy … 我喜歡做 | I enjoy ______________________________ (V-ing). |
-| I need to … 我需要 | I need to practice ______________________ (V-ing) every day. |
+| Good at 擅長 | I am good at ______________________________ (V-ing). |
+| Not enough 還不夠 | But that is not enough. I need to practice ______________________ every day. |
 step: 👥 Practice the 3 sentences with a partner. 和夥伴練習三句。
 step: 📢 Tell 3 partners: 25, 20, 15 seconds. 對三位夥伴說，時間越來越短。
-widths: 12 18 30 40
-| Round | Time | Partner's Signature | Stars & One Note |
-|---|---|---|---|
-| 1 | 25 seconds | ________________ | ★★★★★  ________________ |
-| 2 | 20 seconds | ________________ | ★★★★★  ________________ |
-| 3 | 15 seconds | ________________ | ★★★★★  ________________ |
+step: 👥 Partner: sign, and write 1 clear word and 1 not clear word. 夥伴簽名，寫一個清楚、一個不清楚的字。
+small-table
+widths: 10 14 24 16 18 18
+| Round | Time | Partner's Signature | Stars | ✓ Clear word | ? Not clear |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 25 sec. | ________________ | ★★★★★ | ____________ | ____________ |
+| 2 | 20 sec. | ________________ | ★★★★★ | ____________ | ____________ |
+| 3 | 15 sec. | ________________ | ★★★★★ | ____________ | ____________ |
+step: 🧠 Before the next round, say the "not clear" word 3 times. 下一輪前把不清楚的字唸 3 次。
+My word to practice 我要練的字: ______________________   Round 3: □ clear 清楚了  □ not yet 還要練
 
 step: 📋 Listen to your teacher. 聽老師統整。
 ## Task 4: Speaking Evaluation (對話自主錄音評量)
 flow: 👤 自學 → 📢 表達
 step: 👤 Open your book to pp. 69-70. 打開課本第 69–70 頁。
 step: 📢 Scan the QR code. Record the whole Dialogue. 掃 QR，錄完整對話。
-step: 📢 Then say 2-3 sentences. Use the frame. 再用句框說 2–3 句。
+step: 📢 Then say 3 sentences about your dream job. 再說 3 句自己的夢想職業。
 step: 👤 Listen to your recording. Check the boxes. Then send it. 聽自己的錄音，打勾後送出。
-qr: U4 Dialogue recording: whole Dialogue + 2-3 sentences
-Frame: I want to be a __________. I enjoy __________ (V-ing). I need to practice __________.
-Check Point: □ clear voice (聲音清楚)   □ whole Dialogue   □ 2-3 sentences
+qr: U4 Dialogue recording: whole Dialogue + 3 sentences
+Help: dream job → good at (V-ing) → need to practice …
+Check Point: □ clear voice (聲音清楚)   □ whole Dialogue   □ 3 sentences
 
 ## Task 5: Dialogue Explanation (課後影片與筆記)
 flow: 👤 自學 → 📋 統整
 step: 👤 Scan the QR code. Watch the video. 掃 QR，看影片。
 step: 🧠 Write your notes on Handout pp. 70-71. 在講義第 70–71 頁寫筆記。
+step: 🧠 At the end, answer the Big Question again: I used to think … Now I think … 筆記最後再回答一次核心問題：我以前覺得……現在我覺得……
 step: 📋 Take a photo of your notes. Upload it. 拍照上傳。
 qr: U4 Dialogue explanation video + notes upload
 
 === TEACHER GUIDE ===
-適用：S3（與 S1/S2 同目的、同事實；作答改為圈選、勾選、Word Bank、句框，指令中英對照）。課本 pp. 69–70，CD2: 20–23。
+適用：S3（與 S1/S2 同題、同事實、同核心問題；拿掉「題目答案就在前面」的圈選與打勾，改為附多餘字的 Word Bank、從對話找原句、選擇後寫理由；文法先找再自己歸納規則。指令中英對照）。課本 pp. 69–70，CD2: 20–23。
+
+**核心問題（四軌同題）：Is being good at something enough to make a dream come true?** 很會做某件事，就足以實現夢想嗎？Task 2 第一次回答（Yuki）→ Task 3 連結自己 → Task 5 筆記最後用 I used to think … Now I think … 再答一次。
 
 ## Task 1: See-Think-Wonder（8 分鐘）
 - 目的：用圖片關鍵字建立情境（video、lawyers、fan、wig），並推論 Yuki 的感受。
-- 步驟：圈選 → 填句 → 對組員說一句；Think 全班舉手投票 happy / nervous / angry。
+- Bloom：記憶（關鍵字）＋理解（推論感受）｜會考能力：圖文訊息、推論。
+- 步驟：Word Bank 填句（cake、doctors 用不到）→ Think 寫感受＋線索 → 對夥伴指出圖中線索 → 對組員說一句。
 - 📋 統整：黑板寫 video / lawyers / fan / wig / nervous，並帶唸。
-- 常見錯誤：只圈不填；提醒「圈 → 寫 → 說」三步都要做。
+- 常見錯誤：Think 只寫感受、沒寫 because 的線索。
 
-## Task 2: Dialogue Listening（15 分鐘）
-- 目的：聽懂三人的夢想職業與 Yuki 的困擾，並分辨 to V / V-ing。
-- 步驟：第一次聽（闔書）完成 A 勾選；第二次聽完成 B；開書核對；C 圈選。
-- 📋 統整：夢想職業表 Zac–YouTuber／Cody–lawyer／Yuki–singer；want / hope / plan ＋ to V，enjoy / keep ＋ V-ing。
-- 常見錯誤：B1 寫 make（漏 -ing）；C4 圈 to practice。
+## Task 2: Dialogue Listening（18 分鐘）
+- 目的：聽懂三人的夢想與類型 → 找出 Yuki 的困擾並推論為什麼嚴重 → 判斷哪個建議較好 → 第一次回答核心問題；自己歸納 to V / V-ing。
+- Bloom：A 記憶＋分類｜B1 記憶、B2 推論、B3 評鑑、B4 評鑑｜C 歸納規則（分析）、找錯（應用）、造句（創造）。會考能力：細節、推論、說話者意圖。
+- 步驟：聽兩次（闔書）完成 A → 開書讀 Yuki 的部分做 B → C 文法 → 兩兩比較 B3、B4 理由 → 核對 C。
+- 📋 統整：夢想職業表 Zac–YouTuber–enjoy／Cody–lawyer–help／Yuki–singer–good at；Yuki 很會唱，但歌手要在人前唱，所以「很會」還不夠，還要練習、變勇敢；請學生說出自己歸納的規則，再補完整：want / hope / plan / need ＋ to V，enjoy / keep / practice ＋ V-ing。
+- 常見錯誤：A 的 Yuki 填 hates singing（她討厭的是在人前唱）；B2 選 B 或 C（那是 Zac、Cody 的內容）；B3 理由和所選建議不符；C1 hope 後面只寫 be（漏 to）。
 
-## Task 3: Butterflies? Keep Practicing! & 4-3-2（15 分鐘）
-- 目的：SEL——緊張是正常的，可以練習與找方法；用三句句框說夢想職業。
-- 步驟：Part A 勾選＋句框；Part B 先和夥伴練三句，再三輪 25/20/15 秒。
+## Task 3: Keep Practicing! & 4-3-2（25 分鐘）
+- 目的：SEL——連結自己「很會但會緊張」的經驗；用三句句框說夢想職業，第三句說出「還不夠，還要練什麼」。
+- Bloom：應用（連結自己）＋創造（給點子、說自己的夢想）。
+- 步驟：Part A 句框 4 分鐘 → 同桌選點子；Part B 先和夥伴練三句，再三輪 25/20/15 秒。
 - 📋 統整：全班一起說 Don't worry. Just keep practicing!
-- 常見錯誤：I enjoy draw（漏 -ing）；I want to be a sing（要用 singer）——說之前先檢查句框。
+- 常見錯誤：I am good at draw（漏 -ing）；Part A 第 2 句選 stop singing——提醒這等於放棄夢想。
+- 新增活動｜小組牆（約 10 分鐘）：Part A 之後，同桌選出最好的點子，掃投影的 QR 到 Workshop Wall「B3U4 Dialogue Task 3 小組牆｜801／816」，在自己桌的卡（801-T1～T8）下留言；再替兩桌留三明治回饋。下課後匯出牆上文字交給 Claude，整理成「全班亮點 3 個＋共同卡關 2 個」，下一堂開場講評並開放第 2 欄「老師統整」。
+- 新增活動｜同伴聆聽：4-3-2 表格多兩欄，聽的人每輪寫一個清楚、一個不清楚的字；說話者下一輪前把不清楚的字唸 3 次。之後在 Fluency Challenge 錄同一題時，請學生看「發音清晰」有沒有進步。
 
 ## Task 4: Speaking Evaluation（課後）
-- 評分重點：完整對話、聲音清楚、句框 2–3 句含 to V / V-ing。
+- 評分重點：完整對話、聲音清楚、3 句含夢想＋擅長（V-ing）＋還要練習什麼。
 
 ## Task 5: Dialogue Explanation（課後）
-- 目的：影片複習 to V / V-ing 與 get butterflies；下一堂依筆記抽查。
+- 目的：影片複習 to V / V-ing 與 get butterflies；筆記最後再答一次核心問題；下一堂依筆記抽查。
 
 ## 課前檢核
-- □ 班級 QR 已內建，請試掃一次。 □ CD2: 20–23 可播放。 □ 與 S1、S2、S4 核心答案一致。
+- □ 班級 QR 已內建，請試掃一次。 □ CD2: 20–23 可播放。 □ 與 S1、S2、S4 核對夢想職業表、核心問題、核心答案一致。

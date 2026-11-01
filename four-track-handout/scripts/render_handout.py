@@ -486,8 +486,14 @@ def render_body(r, text):
         elif line.lower().startswith("step:"):
             # a step glues to the item below it, except the last step before the next
             # Task / Part heading: otherwise the whole wrap-up block is dragged onto the next page
+            # A "### " sub-heading (■ A. …) is the step's own item, so the step keeps with it.
+            # Consecutive steps must not glue to each other either: a run of 4 steps + a table
+            # moves as one block and leaves half a page empty (2026-10-31). Only the step right
+            # above its item keeps with next.
             nxt = next((l.strip() for l in lines[i + 1:] if l.strip()), "")
-            r.step(line.split(":", 1)[1].strip(), keep=not nxt.startswith("#"))
+            # "### Part C" opens a new section, so a wrap-up step above it stays behind (2026-11-01)
+            r.step(line.split(":", 1)[1].strip(),
+                   keep=not (re.match(r"#{1,2} |### Part ", nxt) or nxt.lower().startswith("step:")))
         elif line.lower().startswith("widths:"):
             pending["widths"] = [float(x) for x in line.split(":", 1)[1].replace(",", " ").split()]
         elif line.lower().startswith("blue:"):
@@ -525,7 +531,7 @@ def render_body(r, text):
                 block.append(lines[i])
                 i += 1
             if r.mode == "teacher":
-                r.para("🍎 教用版補充（學生版不顯示）", color=RED, bold=True, after=2)
+                keep_with_next(r.para("🍎 教用版補充（學生版不顯示）", color=RED, bold=True, after=2))
                 render_body(r, "\n".join(block))
         elif line == "---pagebreak---":
             r.page_break()
@@ -542,6 +548,12 @@ def render_body(r, text):
 
 def fresh_document(meta):
     doc = docx.Document(str(TEMPLATE))
+    # the template's default East Asian language is en-US, so Word skips the Chinese
+    # line-break rules and can start a line with "，" — mark it zh-TW (2026-10-31)
+    defaults = doc.styles.element.find(qn("w:docDefaults"))
+    lang = defaults.find(".//" + qn("w:lang")) if defaults is not None else None
+    if lang is not None:
+        lang.set(qn("w:eastAsia"), "zh-TW")
     body = doc.element.body
     for child in list(body):
         if child.tag != qn("w:sectPr"):

@@ -6,10 +6,45 @@ step_label: 第 {n} 步
 ---
 
 # Part 2 (第二部分): Reading (閱讀) - IU's Story IU 的故事
-Goal (目標): 我會唸、會拼本課 18 個字，會用「時間火車」把故事排好，看懂 3 個核心句，並讀懂一篇新的小故事。
+Goal (目標): 我會唸、會拼本課 18 個字，會用「時間火車」把故事排好，看懂 3 個核心句，並讀懂一篇新的小故事。我也能自己提問，並用課文檢查 AI 說的對不對。
+[box]
+❓ **Big Question:** Is being good at something enough to make a dream come true?
+核心問題：很會做某件事，就足以實現夢想嗎？
+全班一起想：IU 很會唱歌，為什麼還要試鏡二十次？
+[/box]
 
 ## 任務一：🏠 單字建築師 (Word Architect) ＋ 🚦 紅綠燈與救援站
-flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
+flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
+### ■ 暖身：提問風暴 (Question Storm)
+step: 👤 讀框裡的句子。
+[box]
+🎤 IU went to about 20 auditions.（IU 去了大約 20 次試鏡）
+Only 1 company said "Yes."（只有 1 家公司說「好」）
+[/box]
+### ■ 四個規則 (The 4 Rules)
+[box]
+1. 問越多越好。
+2. 不要停，先不要回答。
+3. 每個問題都寫下來。
+4. 句子可以改成問句。
+[/box]
+step: 🧠 寫 3 個問題，中文或英文都可以。5 分鐘。
+問句開頭：Why 為什麼…？／How 怎麼…？／What 什麼…？／你會…嗎？
+### ■ 我的問題 (My Questions)
+small-table
+widths: 8 92
+| No. | 我的問題 My Question |
+|---|---|
+| 1 | ______________________________________________ |
+| 2 | ______________________________________________ |
+| 3 | ______________________________________________ |
+key: 學生可能寫出的問題：試鏡是什麼？／她為什麼不放棄？／被拒絕那麼多次她難過嗎？／我會試 20 次嗎？中文問題也可以，統整時老師幫忙說成英文。
+step: 🧠 在最好的問題旁畫 ⭐。
+step: 👥 唸給同桌聽，同桌選 1 題，寫在下面。
+### ■ 我們這桌的問題 (Our Table Question)
+lines: 1 | Why didn't IU give up? 她為什麼不放棄？ | 同桌選出的問題（每桌可以不同）；任務二 D–F 最後要用課文回答它
+
+### ■ 單字建築師
 step: 👤 看課本 pp. 79–80。掃課本 QR code，聽一次單字發音 (CD2: 31)。
 step: 🧠 讀下面的「切音節小秘訣」和範例。
 [box]
@@ -169,7 +204,42 @@ widths: 26 74
 | now | He [[teaches|10]] kids to build robots. |
 
 step: 👥 和夥伴核對答案。
-step: 📋 聽老師統整。
+step: 👤 AI 寫了 IU 的摘要。看每一句 AI 說的話。
+step: 🧠 翻到 pp. 79-80 看那一段。圈出課文真正說的（A、B 或 C）。
+### ■ D. AI 偵探：課文怎麼說？(What does the text say?)
+② 🤖 AI：She found her love for music in elementary school.（她在國小愛上音樂）
+看 Para 2：她在哪裡愛上音樂？
+{{(A) elementary school 國小 / (B) junior high school 國中* / (C) high school 高中}}
+
+④ 🤖 AI：She went to about twenty auditions.（她去了大約 20 次試鏡）
+看 Para 3：她去了幾次試鏡？
+{{(A) about two 2 次 / (B) about twelve 12 次 / (C) about twenty 20 次*}}
+
+⑥ 🤖 AI：Now IU doesn't sing anymore.（IU 現在不唱歌了）
+看 Para 4：besides singing 的意思是
+{{(A) 不再唱歌 / (B) 除了唱歌，還…* / (C) 只有唱歌}}
+
+⑦ 🤖 AI：She gives money to people in need because she wants more fans.（她捐錢是因為想要更多粉絲）
+看 Para 4：課文怎麼說？
+{{(A) 她想要更多粉絲 / (B) 課文沒說原因，只說她是年輕人的好榜樣* / (C) 她很有錢}}
+step: 🧠 比一比：AI 說的和課文一樣嗎？在 E 圈 ✓ 或 ✗。
+### ■ E. AI 對嗎？(Is the AI right?)
+widths: 25 25 25 25
+| ② | ④ | ⑥ | ⑦ |
+|---|---|---|---|
+| {{✓ / ✗*}} | {{✓* / ✗}} | {{✓ / ✗*}} | {{✓ / ✗*}} |
+step: 🧠 想一想：⑦ 錯在哪裡？勾 1 個。
+⑦ 是：  [[x]] 課文沒說，AI 自己猜的。  □ 數字錯了。
+step: 🧠 勾選你的 AI 檢查規則。
+### ■ F. 我的 AI 檢查規則 (My AI Check Rule)
+相信 AI 之前，我會……
+□ 回課文找同樣的字　□ 找出在哪一段　□ 問老師或同學
+key: 勾任一項都可以；鼓勵至少勾「回課文找同樣的字」。
+step: 🧠 回到任務一「我們這桌的問題」，現在你會回答了嗎？寫一句，並寫出在第幾段。
+我的回答：__________________________________  （Para ____）
+key: 例：這桌的問題「她為什麼不放棄？」→ 因為她想當歌手，一直練習、去了大約 20 次試鏡（Para 2–3）。
+step: 👥 和同桌核對 D、E。
+step: 📋 聽老師統整：新故事答案和 AI 檢查規則。
 ## 任務三：🏓 單字乒乓賽與夢想時間軸 (Word Ping Pong & My Dream Timeline)
 flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
 step: 👥 兩人一組玩乒乓賽：Level 1 指字說英文，Level 2 聽中文說英文。
@@ -192,7 +262,7 @@ key: 第一句、第二句填入 Idea Bank 的職業即可；become、give up �
 step: 📢 把 2 句唸給 2 位同學聽，請他們簽名。
 step: 📋 聽老師統整。
 ✍️ Partner 1: ______________　✍️ Partner 2: ______________
-🌟 小挑戰收尾：我最難的單字是 ______________；我成功把 ______________ 從紅燈變綠燈啦！🎉
+🌟 小挑戰收尾：我最難的單字是 __________；我成功把 __________ 從紅燈變綠燈啦！🎉
 
 ## 任務四：🔊 口說任務 (Reading Aloud Evaluation)
 flow: 👤 自學 → 📢 表達
@@ -219,17 +289,19 @@ I can understand "However, IU didn't give up."　🟢 Yes / 🟡 Almost / 🔴 N
 === TEACHER GUIDE ===
 適用：S4（單字重建＋簡化時間軸＋ 3 核心句＋迷你 Part B；與 S1–S3 共用時間軸事實、核心句與 Part B 故事）。課本 pp. 79–80，CD2: 27–31。
 
-## 任務一：🏠 單字建築師＋🚦紅綠燈與救援站＋🚂時間火車（20 分鐘）
+## 任務一：🏠 單字建築師＋🚦紅綠燈與救援站＋🚂時間火車（26 分鐘）
 - 目的：建立「看字會唸、聽音會拼」；18 字全部取自本課 Reading；再用簡化時間軸體驗 timeline 策略。
 - 步驟：掃課本 QR 聽單字（CD2: 31）→ 帶全班拍 successful 範例 → 學生完成 Claps／Sound chunks → 兩兩核對 → 紅綠燈 18 字 → 救援 3–4 字 → 時間火車選字。KK 助念員（本教用版上方）可在帶唸時投影。
 - 📋 統整：重音（suc·CESS·ful、Ko·RE·an、de·CID·ed、be·COME、au·DI·tions 在第二音節；MU·sic、SEV·enth、COM·pa·ny 在第一音節）；時間軸 seventh grade → 2007 → 2010 → now（與 S1–S3 同）。
 - 常見錯誤：successful 拼成 sucessful；Claps 與切塊數不一致。
+- 新增活動｜暖身提問風暴（約 6 分鐘）：在單字建築師之前。學生讀提問焦點「IU 去了大約 20 次試鏡，只有 1 家公司說好」，寫 3 個問題（中文可），同桌選 1 題寫進「我們這桌的問題」就停（不上黑板、不全班投票）。這是小探究循環的「提問」階段，AI 不出場。
 
-## 任務二：🔎 閱讀小偵探（15 分鐘）
+## 任務二：🔎 閱讀小偵探（25 分鐘）
 - 目的：在原文中聽出 3 核心句；在課本畫證據回答 3 題；用時間軸讀懂迷你新故事。
 - 步驟：播 CD2: 27–30（闔書）圈 A → 開書做 B 並畫線 → 讀小故事（先帶唸 5 個生字、圈時間詞）→ 2 題＋時間軸 → 兩兩核對。
 - 📋 統整：核心句 2 However 前後相反（親戚嘲笑 ↔ 沒放棄）；核心句 3 besides＋V-ing；小故事 1B 2A，時間軸 radio → first prize → teaches。
 - 常見錯誤：C 第 1 題選 C（看到 2016 就選，沒讀 two years later）。
+- 新增活動｜D–F AI 偵探（約 10 分鐘）：每題先看 AI 的句子，再翻課文那一段三選一，最後判斷 AI 對不對。答案：② B ✗、④ C ✓、⑥ B ✗、⑦ B ✗。⑦「課文沒說，AI 自己猜」是最重要的觀念。最後回到任務一「我們這桌的問題」寫一句回答。
 
 ## 任務三：🏓 單字乒乓賽與夢想時間軸（10 分鐘）
 - 目的：單字自動化提取；SEL＋生涯——和 S1–S3 同主題，用 2 句說自己的夢想與不放棄。

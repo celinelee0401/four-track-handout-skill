@@ -38,7 +38,7 @@ Yuki: Haha. Good idea.
 3. 動名詞當主詞：**Being** a singer is my dream job.
 4. 補充：be good at **V-ing**（介系詞＋V-ing）；It's great **to have** a dream.（虛主詞 it）
 
-四軌共用文法操作：從對話找出「動詞＋to V」與「動詞＋V-ing」並分類；判斷「Zac enjoys to make videos.」對不對（S1 改寫＋說明、S2 二選一＋句框、S3 圈選、S4 核心句圈選）。
+四軌共用文法操作：從對話找出「動詞＋to V」與「動詞＋V-ing」並分類；判斷「Zac enjoys to make videos.」對不對（S1 改寫＋說明、S2 找錯改正＋why＋自己造句、S3 自己找後面接什麼→分類→找錯、S4 核心句圈選；2026-11-01 改）。
 
 ## Answer Bank（四軌共用事實）
 
@@ -65,6 +65,13 @@ Yuki: Haha. Good idea.
 1. I enjoy making videos, and I hope to be a famous YouTuber one day.
 2. I plan to be a lawyer.
 3. Being a singer is my dream job.
+
+## 核心問題（2026-11-01 加，Dialogue／Reading、四軌共用）
+
+**Is being good at something enough to make a dream come true?** 很會做某件事，就足以實現夢想嗎？
+- Dialogue：Yuki 很會唱，卻在人前緊張（butterflies）→ 還需要 keep practicing、be brave。
+- Reading：IU 很會唱，卻被親戚嘲笑、試鏡約二十次、三年後才成功 → 還需要 keep trying、not give up；Part B 的 Ming 也一樣（第一次比賽失敗 → 每天做、讀很多書）。
+- 貫穿：T1 Wonder／Question Storm → T2 最後一題用證據第一次回答（Reading 另有 IU vs. Yuki 比較題）→ T3「I am good at …, but that is not enough. I also need to …」→ T5 筆記最後 I used to think … Now I think …。S4 只有 Goal 下方的核心問題框。
 
 ## T3 主題
 

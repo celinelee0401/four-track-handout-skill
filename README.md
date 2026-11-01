@@ -5,11 +5,11 @@
 | 軌 | 對象 | 講義特色 |
 |---|---|---|
 | S1 自主深化 | 月考 90+ | 開放、推理、全英文 |
-| S2 結構引導 | 80–90 | 同題，加 organizer 和括號中文 |
-| S3 基礎鷹架 | 60–80 | 同題，改圈選、勾選、Word Bank、句框 |
+| S2 結構引導 | 80–90 | 同題，加 organizer；事實自己寫，句框只給說理由 |
+| S3 基礎鷹架 | 60–80 | 同題，Word Bank 含干擾字、選擇題後寫理由、回原文找證據 |
 | S4 基礎重建 | 60 以下 | 單字重建（拍音節、KK、紅綠燈、救援站）＋3 個核心句 |
 
-設計理念與規格都在 `four-track-handout/references/`。
+每個單元有一個核心問題（Big Question），Dialogue、Reading 和四軌共用。設計理念與規格都在 `four-track-handout/references/`。
 
 ## 安裝：把下面這段貼給你的 AI
 
@@ -75,6 +75,11 @@ four-track-handout/
   assets/golden_template.docx Word 版型（頁首、頁尾、字型）
   examples/                   B3 U3、U4 的完整範例（Unit Brief＋S1–S4 來源檔＋LoiLo 卡片）
 ```
+
+## 更新紀錄
+
+- **2026-11-01**：每單元加一個核心問題（Big Question），Dialogue、Reading、S1–S4 共用，從 Task 1 貫穿到 Task 5（I used to think … Now I think …）。S2、S3 減少鷹架：思考層次和 S1 一樣要到連結、比較、判斷；S2 事實題自己寫，S3 不再只圈只勾。U4 範例全部換成新程度。另修正換頁（Step 不再整串被拉到下一頁、Word 避頭尾點）、LoiLo 卡片可用 `compact: true` 縮小字級。
+- **2026-10-22**：第一版分享。
 
 ## 注意
 

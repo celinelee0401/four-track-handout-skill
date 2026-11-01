@@ -15,6 +15,7 @@ Source syntax (see references/loilo-cards.md):
   title: ...               big card title
   cover: true              cover card (no blank/answer badge, never doubled)
   reveal: all              reveal every answer in one step (default: one row/bullet/line per step)
+  compact: true            smaller type for a long card (e.g. an 8-row table) so it stays on one page
   - item                   bullet
   | a | b |                table (first row = header)
   [box] ... [/box]         highlighted box
@@ -78,6 +79,10 @@ th { background: #e8eef6; }
 .tick { font-weight: 700; }
 .tick.on { color: #dc2626; }
 .foot { position: absolute; bottom: 0.18in; right: 0.6in; font-size: 16px; color: #94a3b8; }
+.compact h1 { font-size: 40px; margin-bottom: 8px; }
+.compact .body { font-size: 27px; line-height: 1.3; }
+.compact table { font-size: 25px; margin-bottom: 6px; }
+.compact th, .compact td { padding: 4px 12px; }
 .cover { justify-content: center; align-items: center; text-align: center; background: #1f3a5f; color: #fff; }
 .cover h1 { font-size: 60px; }
 .cover .body { flex: 0; font-size: 30px; }
@@ -96,7 +101,7 @@ def parse(text):
     for chunk in re.split(r"^===\s*card\s*$", body, flags=re.M)[1:]:
         card = {"lines": []}
         for line in chunk.strip("\n").splitlines():
-            m = re.match(r"^(tag|title|cover|reveal):\s*(.*)$", line.strip())
+            m = re.match(r"^(tag|title|cover|reveal|compact):\s*(.*)$", line.strip())
             if m and not card["lines"]:
                 card[m.group(1)] = m.group(2).strip()
             else:
@@ -247,7 +252,8 @@ def card_html(card, meta, level, n, total):
             badge = '<span class="badge blank">? 想一想</span>'
         else:
             badge = f'<span class="badge ans">✓ 揭曉 {level}/{steps}</span>'
-    return (f'<section class="card"><div class="top"><span class="tag">{html.escape(card.get("tag", ""))}</span>{badge}</div>'
+    cls = "card compact" if card.get("compact") else "card"
+    return (f'<section class="{cls}"><div class="top"><span class="tag">{html.escape(card.get("tag", ""))}</span>{badge}</div>'
             f'<h1>{inline(title, level)}</h1>'
             f'<div class="body">{body_html(lines, level)}</div>'
             f'<div class="foot">{html.escape(meta.get("locator", ""))} · {n}/{total}</div></section>')

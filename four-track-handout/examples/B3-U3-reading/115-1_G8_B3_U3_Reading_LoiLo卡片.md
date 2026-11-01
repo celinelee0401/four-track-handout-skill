@@ -33,16 +33,19 @@ title: 🗺️ The Dreamcatcher: 3 Parts
 
 === card
 tag: T1 Keep or Cut?
+compact: true
 title: ✂️ Big idea or small detail?
-| Idea from the text | Keep 留 | Cut 刪 |
+| Idea from the text (S1/S2 講義 B 表) | Keep | Cut |
 |---|---|---|
-| Emma moved to a new city. | [[x]] | □ |
-| She was eating cake in a dream. | □ | [[x]] |
-| A bear was running after her. | □ | [[x]] |
-| "You're just nervous about your new school." | □ | [[x]] |
-| Nothing worked. | [[x]] | □ |
-| Dakota gave her a dreamcatcher. | [[x]] | □ |
-Why cut? cake、bear 是惡夢的 [[例子]] → 小細節，摘要不需要。
+| 1. Emma moved to a new city. | [[x]] | □ |
+| 2. She was eating cake in a dream. | □ | [[x]] |
+| 3. She had bad dreams almost every night. | [[x]] | □ |
+| 4. A bear was running after her. | □ | [[x]] |
+| 5. Her parents said, "You're just nervous about your new school." | □ | [[x]] |
+| 6. Nothing worked. | [[x]] | □ |
+| 7. Dakota gave her a dreamcatcher. | [[x]] | □ |
+| 8. She could finally sleep through the night. | [[x]] | □ |
+Why cut? 2、4 是惡夢的 [[例子]]，5 是父母說的 [[話]] → 小細節，摘要不需要。
 
 === card
 tag: T1 Our Summary

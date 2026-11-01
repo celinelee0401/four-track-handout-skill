@@ -23,6 +23,14 @@
 - [ ] Task 4 錄音 QR、Task 5 影片筆記 QR 都在，且兩者分開。
 - [ ] Reading 沒有 first topic / final topic、keep/change 流程。
 
+## C2. 程度與鷹架（2026-11-01，philosophy.md §4a）
+- [ ] Goal 下方有核心問題框；Dialogue 與 Reading、四軌同一題；T2 最後一題、T3、T5（I used to think … Now I think …）都回到它。
+- [ ] 數一數 S1–S3 的 T2 題目：事實題 ≤ 1/3；有推論、有比較／判斷、有核心問題。Reading 有一題和 Dialogue 人物比較。
+- [ ] S2：事實題沒有句框；圖表整格空白；文法是找錯＋why＋自己造句。
+- [ ] S3：逐題檢查「學生能不能只靠比對字形就答對」，能的話就改；Word Bank 有干擾字；選擇題後有理由／證據；沒有只要勾的題組；文法先找再歸納。
+- [ ] 指令與題目沒有露出答案；小組步驟要比較理由、指出證據。
+- [ ] Teacher Guide 每個 Task 有 `Bloom：…｜會考能力：…`。
+
 ## D. 教用版
 - [ ] 每一個固定題都有紅字答案，寫在該題位置。
 - [ ] 每一個開放題都有參考答案＋可接受條件。

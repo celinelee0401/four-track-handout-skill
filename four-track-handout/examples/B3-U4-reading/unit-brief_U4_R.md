@@ -65,6 +65,29 @@ Unit 4 Reading: IU's Story｜Before You Read p. 78｜課文 pp. 79–80｜After 
 
 （1＝時間軸第一站＋to V；2＝本課 SEL 轉折；3＝最後一站＋介系詞＋V-ing。）
 
+## 核心問題（2026-11-01 加，Dialogue／Reading、四軌共用）
+
+**Is being good at something enough to make a dream come true?** 很會做某件事，就足以實現夢想嗎？
+- Dialogue：Yuki 很會唱，卻在人前緊張（butterflies）→ 還需要 keep practicing、be brave。
+- Reading：IU 很會唱，卻被親戚嘲笑、試鏡約二十次、三年後才成功 → 還需要 keep trying、not give up；Part B 的 Ming 也一樣（第一次比賽失敗 → 每天做、讀很多書）。
+- 貫穿：T1 Wonder／Question Storm → T2 最後一題用證據第一次回答（Reading 另有 IU vs. Yuki 比較題）→ T3「I am good at …, but that is not enough. I also need to …」→ T5 筆記最後 I used to think … Now I think …。S4 只有 Goal 下方的核心問題框。
+
+## Part A 問題梯（2026-11-01 新版，取代上方 Q1–Q8）
+
+| 題 | 問題 | 答案 |
+|---|---|---|
+| Q1 | When did IU find her love for music? What did she decide in the seventh grade? | In junior high school. She decided to become a singer. (Para 2) |
+| Q2 | Her relatives didn't believe in her. What did IU do next? Evidence? | She didn't give up. She went to about twenty auditions. (Para 2–3) |
+| Q3 | "Three years later" — what year? How do you know? | 2010 (2007 + 3) (Para 3) |
+| Q4 | Why is IU "a good example for young people"? 2 reasons. | She didn't give up; she gives her money to those in need. (Para 2–4) |
+| Q5 | Main idea | (C) |
+| Q6 | "She often gives her money to those in need." | (A) IU is kind. |
+| Q7 | 🔗 IU vs. Yuki：problem / what else she needed | IU：relatives made fun of her dream → keep trying；Yuki：butterflies in front of people → keep practicing, be brave |
+| Q8 | 💡 Was being good at singing enough for IU? 2 pieces of evidence | Yes / No 皆可；常見 No：about twenty auditions、first success three years later |
+
+Part B 新增 Q5（S3 為 Q4）：Ming was good at fixing things. Was that enough? → No; he worked on his robot every day and read many books about robots.
+文法操作改為：S1 找＋改錯＋why＋besides V-ing 造句；S2 同 S1（短答）；S3 自己找後面接什麼 → 寫規則 → 三句找錯 → 造句；S4 核心句圈選。
+
 ## T3 主題
 
 - **SEL＋生涯｜My Dream Timeline（我的夢想時間軸）**：IU 被親戚嘲笑、試鏡約 20 次仍不放棄。連結課本 Before You Read（What does it take to be successful?）與 After You Read C（理想職業的必備條件），以及備課用書議題「生涯規劃教育」。理由：讓學生用本課策略（timeline）規劃自己的未來，並思考「被潑冷水時怎麼辦」（成長型思維）。

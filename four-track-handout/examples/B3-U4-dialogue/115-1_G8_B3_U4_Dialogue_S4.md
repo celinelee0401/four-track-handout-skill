@@ -6,7 +6,12 @@ step_label: 第 {n} 步
 ---
 
 # Part 1 (第一部分): Dialogue (對話) - Our Dream Jobs 我們的夢想職業
-Goal (目標): 我會唸、會拼本課 18 個字，聽得懂 3 個核心句，並說出「我想當什麼、我喜歡做什麼」。
+Goal (目標): 我會唸、會拼本課 18 個字，聽得懂 3 個核心句，並說出「我想當什麼、我喜歡做什麼」。我也能在小組牆給其他桌一句好話。
+[box]
+❓ **Big Question:** Is being good at something enough to make a dream come true?
+核心問題：很會做某件事，就足以實現夢想嗎？
+全班一起想：Yuki 很會唱歌，這樣就夠了嗎？
+[/box]
 
 ## 任務一：🏠 單字建築師 (Word Architect)
 flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
@@ -158,6 +163,22 @@ Friend: "I get butterflies when I sing."
 You: "Don't [[worry|8]]. Just keep [[practicing|12]]."
 Word Bank: worry / hurry / practicing / sleeping
 
+step: 👥 同桌一起選：再給 Yuki 一個點子，勾 1 個。
+Our table's idea 我們桌的點子：  □ Sing for your family first. 先唱給家人聽。  □ Take a deep breath. 深呼吸。  □ Sing with a friend. 和朋友一起唱。
+key: 三個都是合理的點子，勾任一個都對。
+step: 📢 掃螢幕上的 QR，找到自己桌的卡（例如 801-T3），名字寫 801-T3。
+step: 📢 在留言打 B 的鼓勵句和勾的點子（也可以按＋上傳照片）。
+step: 🧠 看另外兩桌的卡，每一桌勾一個三明治。
+small-table
+widths: 14 86
+| Table | 我的三明治 My Sandwich |
+|---|---|
+| T____ | 🍞 □ Good idea! 好點子！  □ I like it! 我喜歡！<br>🥩 Yuki can also  □ sing for her family.  □ take a deep breath.  □ sing with a friend.<br>🍞 □ Yuki can do it! 她做得到！ |
+| T____ | 🍞 □ Good idea! 好點子！  □ I like it! 我喜歡！<br>🥩 Yuki can also  □ sing for her family.  □ take a deep breath.  □ sing with a friend.<br>🍞 □ Yuki can do it! 她做得到！ |
+key: 每一片勾一個即可；中間那片勾「和對方不一樣」的點子。
+step: 📢 把勾好的三明治留在他們的卡下（可請同桌幫忙打）。
+
+
 step: 🧠 完成 C 的 My 3 Sentences（我的三句）。
 ### ■ C. My 3 Sentences — 我的夢想職業
 Idea Bank: teacher 老師 / vet 獸醫 / singer 歌手 / YouTuber / drawing 畫畫 / cooking 做菜 / singing 唱歌 / playing games 玩遊戲
@@ -167,14 +188,17 @@ widths: 30 70
 | 1. 我想當…… | I want to be a ______________________. |
 | 2. 我喜歡做…… | I enjoy ______________________ (V-ing). |
 | 3. 我希望有一天…… | I hope to be a ______________ one day. |
-step: 📢 對三位同學說三句：1 分鐘、45 秒、30 秒。每輪請同學簽名。
-widths: 12 18 30 40
-| Round | Time | Partner's Signature | Stars |
-|---|---|---|---|
-| 1 | 1 minute | ________________ | ★★★★★ |
-| 2 | 45 seconds | ________________ | ★★★★★ |
-| 3 | 30 seconds | ________________ | ★★★★★ |
-🌟 小挑戰收尾：我最難的單字是 ______________；我成功把 ______________ 從紅燈變綠燈啦！🎉
+step: 📢 對三位同學說三句：1 分鐘、45 秒、30 秒。每輪請同學簽名，並寫一個清楚的字、一個不清楚的字。
+small-table
+widths: 10 16 26 16 16 16
+| Round | Time | Partner's Signature | Stars | ✓ 清楚的字 | ? 不清楚的字 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 1 minute | ________________ | ★★★★★ | ____________ | ____________ |
+| 2 | 45 sec. | ________________ | ★★★★★ | ____________ | ____________ |
+| 3 | 30 sec. | ________________ | ★★★★★ | ____________ | ____________ |
+step: 🧠 下一輪說之前，把「不清楚的字」唸 3 次。
+我要練的字：______________________   第 3 輪時  □ 清楚了  □ 還要再練
+🌟 小挑戰收尾：我最難的單字是 __________；我成功把 __________ 從紅燈變綠燈啦！🎉
 
 step: 📋 聽老師統整常用句。
 ## 任務四：🔊 口說任務 (Speaking Evaluation)
@@ -214,11 +238,13 @@ I can understand "I enjoy making videos."　🟢 Yes / 🟡 Almost / 🔴 Need h
 - 📋 統整：黑板夢想職業表 Zac–YouTuber／Cody–lawyer／Yuki–singer（與 S1–S3 相同）；enjoy making、hope to be 用顏色標示。
 - 常見錯誤：B1 圈 watching（沒聽清楚 making）；連連看把 Zac 和 Cody 搞混。
 
-## 任務三：🏓 單字乒乓賽與三句挑戰（12 分鐘）
+## 任務三：🏓 單字乒乓賽與三句挑戰（20 分鐘）
 - 目的：單字自動化提取；用 3 句說自己的夢想職業（與 S1–S3 同主題）；SEL 鼓勵句 Don't worry. Just keep practicing.
 - 步驟：Level 1、Level 2 各 2 分鐘 → 鼓勵句 → 三句填寫 → 三輪 1 分／45 秒／30 秒。
 - 📋 統整：全班一起說 Don't worry. Just keep practicing!
 - 常見錯誤：I enjoy draw（漏 -ing）；I want to be a sing（要用 singer）。
+- 新增活動｜小組牆（約 10 分鐘）：Part A 之後，同桌選出最好的點子，掃投影的 QR 到 Workshop Wall「B3U4 Dialogue Task 3 小組牆｜801／816」，在自己桌的卡（801-T1～T8）下留言；再替兩桌留三明治回饋。下課後匯出牆上文字交給 Claude，整理成「全班亮點 3 個＋共同卡關 2 個」，下一堂開場講評並開放第 2 欄「老師統整」。
+- 新增活動｜同伴聆聽：4-3-2 表格多兩欄，聽的人每輪寫一個清楚、一個不清楚的字；說話者下一輪前把不清楚的字唸 3 次。之後在 Fluency Challenge 錄同一題時，請學生看「發音清晰」有沒有進步。
 
 ## 任務四：🔊 口說任務（課後）
 - 評分重點：8 核心字＋ 3 核心句清楚完整；不要求完整對話。

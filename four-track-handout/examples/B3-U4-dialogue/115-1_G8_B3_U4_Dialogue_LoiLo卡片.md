@@ -8,55 +8,79 @@ filename: 115-1_G8_B3_U4_Dialogue_LoiLo卡片
 cover: true
 title: 🎤 U4 Dialogue: Our Dream Jobs
 統整卡 Summary Cards · S1–S4 共用
-to V / V-ing · Being a singer … · Butterflies? Keep practicing!
+❓ Is being good at something enough? · to V / V-ing · Being a singer …
+
+=== card
+tag: Big Question
+title: ❓ Our Big Question 核心問題
+[box]
+**Is being good at something enough to make a dream come true?**
+很會做某件事，就足以實現夢想嗎？
+[/box]
+- Think now: **Yes** or **No**? Why? 現在先想：是或不是？為什麼？
+- We will answer it again in Task 2, Task 3, and Task 5. 任務二、三、五會再回答一次。
 
 === card
 tag: T1 See-Think-Wonder
 title: 👀 What do you see? (pp. 69-70)
-- Zac is making a [[video]]. 📱
-- Cody is thinking about [[lawyers]]. ⚖️
-- Yuki is singing with a [[fan]] in front of her face. 🪭
-- In Cody's idea, Yuki is wearing a big orange [[wig]].
+- p. 69, the boy in green: He is making a [[video]]. 📱
+- p. 69, the boy in blue: He is thinking about [[lawyers]]. ⚖️
+- p. 70, the girl's bubble: She is singing with a [[fan]] in front of her face. 🪭
+- p. 70, the girl's bubble: She is wearing a big orange [[wig]].
 [box]
-🤔 Think: Yuki covers her face. She feels {{happy / nervous* / angry}}.
+🤔 Think: I think she feels [[nervous@last]] because she [[covers her face@last]].
 [/box]
 
 === card
 tag: T2 Dream Job Chart
-title: 🌟 Who wants to be what?
-| Who | Dream job | Why? / What does he or she like? |
-|---|---|---|
-| Zac | a famous [[YouTuber]] | He enjoys [[making videos]]. |
-| Cody | a [[lawyer]] | He wants to [[help people in need]] and fight for their rights. |
-| Yuki | a [[singer]] | She is really good at [[singing]]. |
+title: 🌟 What do they enjoy, do well, or want to do?
+| Who | Dream job | What does he or she enjoy, do well, or want to do? | Type (類型) |
+|---|---|---|---|
+| Zac | [[a famous YouTuber]] | He enjoys [[making videos]]. | [[enjoy]] |
+| Cody | [[a lawyer]] | He wants to [[help people in need]]. | [[help others]] |
+| Yuki | [[a singer]] | She is really good at [[singing]]. | [[good at]] |
 
 === card
 tag: T2 Yuki's Problem
-title: 🦋 Butterflies in my stomach
+title: 🦋 Yuki is good at singing. So what is her problem?
+- B1 Her words: "But I hate singing [[in front of people]]."
+- "I get butterflies in my stomach" = She feels [[nervous]].
 [box]
-Yuki hates singing [[in front of people]]. She gets butterflies in her stomach = She feels [[nervous]].
+B2 Why is this a big problem for a singer?
+Singers often sing [[in front of many people@last]]. If she gets nervous, she [[can't sing well@last]].
 [/box]
-| Friend | Advice 建議 |
-|---|---|
-| Zac | Don't [[worry]]. Just keep [[practicing]]. |
-| Cody | Put on a big [[wig]]. Then you can't [[see people]]. |
-Yuki at the end: "Haha. Good [[idea]]." → She feels better. 😊
 
 === card
-tag: T2 Grammar
-title: 🧩 to V or V-ing?
-| verb + **to V** | verb + **V-ing** | both 兩者都可 |
+tag: T2 Which Advice?
+title: 💡 Which advice can help Yuki more in the future?
+| Friend | Advice 建議 | Does it help in the future? 長遠來看 |
 |---|---|---|
-| [[want]] / [[hope]] / [[plan]] / need | [[enjoy]] / [[keep]] / practice / finish | like / love / [[hate]] |
-| I hope [[to be]] a YouTuber. | I enjoy [[making]] videos. | I hate [[singing / to sing]] in front of people. |
+| Zac | Just keep [[practicing]]. | Practicing can make her [[brave]] every time. |
+| Cody | Put on a big [[wig]]. | It is funny, but she [[can't wear a wig on every stage]]. People still [[watch her]]. |
+[box]
+Both answers are OK. Give a reason from the Dialogue! 兩種都可以，重點是理由。
+[/box]
 
 === card
 tag: T2 Grammar
-title: 🔧 Fix it!
-- ❌ Zac enjoys to make videos. → ✅ Zac enjoys [[making]] videos.
-- ❌ He hopes being a YouTuber. → ✅ He hopes [[to be]] a YouTuber.
-- ❌ Cody plans being a lawyer. → ✅ Cody plans [[to be]] a lawyer.
-- ❌ Just keep to practice. → ✅ Just keep [[practicing]].
+title: 🧩 to V or V-ing? (from the Dialogue)
+| verb + **to V** | verb + **V-ing** |
+|---|---|
+| hope [[to be]] | enjoy [[making]] |
+| want [[to be]] / want [[to help]] | hate [[singing]] |
+| plan [[to be]] | keep [[practicing]] |
+[box]
+to V: want / hope / plan / need　　V-ing: enjoy / keep / practice / finish
+like / love / hate: both 兩者都可　　good at ＋ V-ing (good at singing)
+[/box]
+
+=== card
+tag: T2 Grammar
+title: 🔧 Find the mistakes. Fix them. Say why.
+- ❌ Yuki needs practicing more. → ✅ Yuki needs [[to practice]] more.
+- ❌ She hopes singing on a big stage. → ✅ She hopes [[to sing]] on a big stage.
+- Why? After "need" and "hope," we use [[to V]].
+- ❌ Zac enjoys to make videos. → ✅ Zac enjoys [[making]] videos. (enjoy ＋ [[V-ing]])
 
 === card
 tag: T2 Grammar
@@ -65,31 +89,18 @@ title: 🎯 V-ing as the subject (V-ing 當主詞)
 **Being** a singer is my dream job.
 主詞 = [[Being a singer]]　　動詞 = [[is]]
 [/box]
-- Be a singer → [[Being]] a singer is my dream job.
+- Be a vet → [[Being]] a vet is my dream job.
 - It's great to have a dream. = [[Having]] a dream is great.
-- You're good at [[singing]]. (at ＋ V-ing)
 
 === card
-tag: T2 Kind Words
-title: 💬 Say something nice!
-| When your friend … | You can say … |
-|---|---|
-| shows you a cool video | How [[cool]]! |
-| tells you a good plan | Good for [[you]]. |
-| has a dream | It's great to have a [[dream]]. |
-| feels nervous | Don't [[worry]]. Just keep [[practicing]]. |
-| gives you an idea | Good [[idea]]! |
-
-=== card
-tag: T3 Butterflies?
-title: 🧘 When I get butterflies, I can …
-- 🔁 Keep [[practicing]].
-- 😮‍💨 Take a deep [[breath]].
-- 👨‍👩‍👧 Sing for my [[family]] first.
-- 🗣️ Talk to a [[friend]].
+tag: T3 Good at It, but Nervous?
+title: 🧘 Yuki, don't worry. You can …
+- 👨‍👩‍👧 [[sing for your family first]]. It helps because [[your family loves you]].
+- 😮‍💨 [[take a deep breath]].
+- 🎤 [[sing with a friend]].
 - 💭 Our class ideas：______________________
 [box]
-Butterflies are OK! Everyone gets nervous. 緊張很正常，持續練習就會進步。
+❌ stop singing → That is [[giving up@last]] on the dream! 放棄不是好點子。
 [/box]
 
 === card
@@ -97,11 +108,24 @@ tag: T3 4-3-2 Fluency
 title: 🗣️ My Dream Job
 | Speaking Map | Model sentence 示範句 |
 |---|---|
-| Dream job | I want to be a [[game designer]]. |
-| I enjoy … | I enjoy [[playing games and drawing]]. |
-| Why? | I hope to [[make people happy]] one day. |
-| I need to … | I need to practice [[drawing]] every day. |
-💡 Idea Bank：teacher · vet · singer · YouTuber · drawing · cooking · singing · helping people
+| ① What do you want to be? | I want to be a [[vet]]. |
+| ② What do you enjoy doing? What are you good at? | I enjoy [[helping animals]]. I am good at [[science]]. |
+| ③ Is that enough? What else do you need? | But that is not enough. I also need to [[study hard every day]]. |
+| ④ Why do you want this job? | I want to [[help sick animals]]. |
+💡 Speaking Map: keywords only! 只寫關鍵字，不寫整句。
+
+=== card
+tag: Big Question
+title: ❓ Is being good at something enough?
+| | Yuki |
+|---|---|
+| She is good at … | [[singing]] ✓ |
+| But … | she gets [[butterflies]] in front of people. |
+| She also needs to … | [[keep practicing]] and be [[brave]]. |
+[box]
+Task 5 notes: I used to think [[being good at something is enough@last]].
+Now I think [[I also need to keep practicing and be brave@last]].
+[/box]
 
 === card
 tag: S4 Word Stress

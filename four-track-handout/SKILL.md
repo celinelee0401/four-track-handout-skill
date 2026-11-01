@@ -23,7 +23,7 @@ Claude writes every word of the handouts; the script only lays them out. Quality
 - 單元、Dialogue／Reading、要哪幾軌（預設 S1–S4 全做）。
 - QR：Task 4、Task 5 用 `teacher-profile.md` 指定的做法。若 `assets/class_qr.png` 存在，`qr:` 區塊會自動嵌入；不存在就留「QR code（請貼上）」框，交付時提醒老師貼。
 - Task 5 手寫筆記頁碼：查 `teacher-profile.md` 的頁碼表；表上沒有就問老師。
-- 輸出位置與檔名：依 `teacher-profile.md`；若檔案已存在，新檔加 `_v2`，不可覆蓋老師已編修的版本。
+- 輸出位置與檔名：依 `teacher-profile.md`；若檔案已存在，不可覆蓋老師已編修的版本：先把舊版（docx、教用、PDF預覽、src）整組移到同資料夾的 `_v1/` 子資料夾、檔名加後綴，新版沿用原檔名。檔名、`locator`、頁首頁尾一律不寫 v2 等版本號（學生看得到，資料夾也會亂）。
 
 ### 1. Gather sources
 - 學用課本、教用課本、備課用書 PDF：位置見 `teacher-profile.md`；找不到就請老師給路徑。
@@ -37,6 +37,7 @@ Must contain, all verified against the textbook:
 - 本課文法焦點（課本 Grammar Focus）與一題四軌共用的文法操作。
 - **Answer Bank**：T1–T3 每一個固定答案的正確事實（四軌都從這裡取答案）。
 - 3 個原文核心句（含文法焦點）。
+- **核心問題（Big Question）**：一題，Dialogue／Reading、四軌共用（philosophy.md §4a）；同單元另一個 Part 已有就沿用。寫出它怎麼貫穿 T1–T5。
 - T3 主題問題與框架（SEL／SDGs／TBLT／思考常規）及理由；4/3/2 說話題目。
 - S4 18 字表（Core 10、Support 8）：Claps、Sound chunks、KK、中文；KK 以課本／備課用書 Word Bank 為準，查不到的標 ⚠ 讓老師確認。
 - Reading：策略名稱與說明比喻、策略圖正確答案、Part A 問題梯、Part B CAP 短文（S1/S2 版、S3 簡化版、S4 迷你版）與出處說明。
@@ -46,7 +47,7 @@ Show the teacher a short summary of the Brief (key facts, grammar, T3 question, 
 ### 3. Write the tracks, in order S1 → S2 → S3 → S4
 One source file per track (`<輸出資料夾>/src/<filename>.md`, syntax in `source-format.md`). Put `teacher:` and `course:` from `teacher-profile.md` in every front matter.
 - **S1** first: the full-challenge version of each Task's core question.
-- **S2 / S3**: keep the same Task function, core question and facts; change only the scaffold per the spec table. S3 uses the activity patterns in the spec (圈選→填入→說出、事實勾選、6 字 Word Bank、句框＋Idea Bank).
+- **S2 / S3**: keep the same Task function, core question and facts; change only the scaffold per the spec table. The thinking level is the same as S1 (connect, compare, judge). Follow the scaffold-reduction rules in philosophy.md §4a: S2 writes facts without frames; S3 uses Word Banks with extra words, evidence copying and MC + reason, never tick-only or copy-match items.
 - **S4**: the word-rebuilding package plus the shared 3 core sentences (and for Reading, the mini Part B).
 - Each file includes its own `=== TEACHER GUIDE ===` section, specific to that track and this unit.
 - **Instructions are the most important text.** Write them as numbered five-ring steps (👤 自學 → 🧠 思考 → 👥 討論 → 📢 表達 → 📋 統整) in CEFR A1 English (philosophy.md §5). **Place each step (`step:` line) directly above the item it refers to — never one list at the top of the Task** (philosophy.md §5.1a); name the item ("Fill in the timeline in A"); put 👥/📢/📋 wrap-up steps after the last item. Listening always uses the audio track or QR, never the teacher reading the text.
@@ -89,3 +90,4 @@ Report: the files written (student + 教用 per track), the Unit Brief, the alig
 - Instruction = 五環編號步驟＋CEFR A1；聽力只用音檔／QR，絕不請老師朗讀課文。
 - 步驟緊接題目：`step:` 一步一行放在該題正上方，不顯示「Instruction:」標籤。
 - S4 KK 音標助念員只放教用版：用 `[teacher] … [/teacher]` 包住（學生版不出現）。
+- 核心問題＋鷹架減量（2026-11-01，U4 起）：每單元一題 Big Question 貫穿四軌與 D/R；S2、S3 拿掉只填單字、只圈只勾的鷹架，思考層次和 S1 一樣到連結／判斷（philosophy.md §4a）。範例：`examples/B3-U4-dialogue`、`examples/B3-U4-reading`。

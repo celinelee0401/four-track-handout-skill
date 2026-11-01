@@ -5,10 +5,42 @@ filename: 115-1_G8_B3_U4_Reading_S1
 ---
 
 # Part 2: Reading - IU's Story
-Goal: I can find time words and put events on a timeline. I can tell IU's story with the timeline. I can plan my own dream timeline.
+Goal: I can find time words and put events on a timeline. I can compare IU with Yuki and decide if talent is enough for a dream. I can plan my own dream timeline. I can ask my own questions and check what AI says with the text.
+[box]
+❓ **Big Question:** Is being good at something enough to make a dream come true?
+[/box]
 
 ## Task 1: Strategy Lab - Timeline (時間軸)
 flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
+### ■ Warm-up: Question Storm (提問風暴)
+step: 👤 Read the sentence and the 4 rules in the box.
+[box]
+🎤 IU went to about 20 auditions. Only 1 company said "Yes."
+The 4 Rules: ① Ask as many questions as you can. ② Don't stop. Don't talk. Don't answer. ③ Write each question the way you said it. ④ Change sentences into questions.
+[/box]
+step: 🧠 Write 5 or more questions in My Questions. 5 minutes.
+### ■ My Questions
+small-table
+widths: 8 76 16
+| No. | My Question | C or O |
+|---|---|---|
+| 1 | ______________________________________________ | ______ |
+| 2 | ______________________________________________ | ______ |
+| 3 | ______________________________________________ | ______ |
+| 4 | ______________________________________________ | ______ |
+| 5 | ______________________________________________ | ______ |
+key: 學生可能寫出的問題：What is an audition? / How did she feel after so many "No"s? / Why didn't she give up? / Was she a good singer? / Would I try 20 times? 都可以，數量比品質重要。
+step: 🧠 Write C or O next to each question in My Questions.
+C = Closed: the answer is "yes / no" or one word.   O = Open: the answer needs a few sentences.
+step: 🧠 Change 1 C question into an O question. Write both below.
+C: ______________________________  →  O: ______________________________
+key: 範例：C: Did IU give up? → O: Why didn't IU give up?
+step: 🧠 Put a ⭐ next to your best question in My Questions.
+step: 👥 Read your ⭐ question to your table. Choose 1 for the table. Write it below.
+### ■ Our Table Question
+lines: 1 | Why didn't IU give up? | 同桌選出的問題（每桌可以不同）；Task 2 Part C 最後要用課文證據回答它
+
+### ■ IU's Story
 step: 👤 Listen to "IU's Story" 1 time. (CD2: 27-30)
 step: 👤 Read pp. 79-80 by yourself. Then read the box below.
 [box]
@@ -36,7 +68,7 @@ step: 🧠 Tell the story in B. Write 2 sentences.
 Use **first**, **then**, **after that**, or **now**.
 lines: 3 | First, IU decided to become a singer in the seventh grade, but her relatives made fun of her dream. She didn't give up, and after many auditions, a company signed her in 2007. In 2010, she had her first success, and now she is a popular singer, writer, and actor who helps people. | 依時間順序、至少含 3 個時間點、用自己的話
 
-step: 👥 Check A and B with a partner.
+step: 👥 Read your B to a partner. Did you both use 3 time words? Find one stop your partner missed.
 step: 📢 Tell IU's story to your group. Use your timeline.
 step: 📋 Listen to your teacher. Check the timeline.
 ## Task 2: Strategy Practice (策略練習)
@@ -44,28 +76,27 @@ flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
 
 ### Part A: Question Ladder (課文問題梯)
 step: 👤 Read pp. 79-80 again.
-step: 🧠 Answer Questions 1-8. Use full sentences.
-step: 🧠 Write the paragraph number for each answer.
-1. When did IU find her love for music?   (Para [[2|3]])
-[[She found her love for music in junior high school.|60]]
-2. What did IU decide in the seventh grade?   (Para [[2|3]])
-[[She decided to become a singer.|60]]
-3. What did her relatives do?   (Para [[2|3]])
-[[They didn't believe in her and made fun of her dream.|60]]
-4. IU went to about twenty auditions. What does this show about her?   (Para [[3|3]])
-lines: 1 | It shows she kept trying and didn't give up. | 指出「一直嘗試／不放棄」
-5. "Three years later" — what year is it? How do you know?   (Para [[3|3]])
+step: 🧠 Answer Questions 1-8. Use full sentences. Write the Para number.
+1. When did IU find her love for music? What did she decide in the seventh grade?   (Para [[2|3]])
+lines: 1 | She found her love for music in junior high school. In the seventh grade, she decided to become a singer. | 兩個問題都要答
+2. Her relatives didn't believe in her. What did IU do next? Give 1 piece of evidence from the text.   (Para [[2-3|4]])
+lines: 2 | She didn't give up. She went to about twenty auditions before a company signed her. | 說出「沒有放棄」＋證據（about twenty auditions）
+3. "Three years later" — what year is it? How do you know?   (Para [[3|3]])
 lines: 1 | It is 2010, because a company signed her in 2007, and 2007 + 3 = 2010. | 寫出 2010 並說明推算
-6. What does IU do now? Write 4 things.   (Para [[4|3]])
-[[She sings, writes songs, acts, and gives money to those in need.|60]]
-7. What is the main idea of the reading?   My answer: [[C|4]]
+4. The writer says IU is "a good example for young people." Why? Give 2 reasons from the text.   (Para [[2-4|4]])
+lines: 2 | She didn't give up on her dream when people made fun of her. She also gives her money to those in need. | 兩個理由，一個來自堅持（Para 2–3），一個來自幫助別人（Para 4）
+5. What is the main idea of the reading?   My answer: [[C|4]]
 (A) IU has fans all over the world.
 (B) IU decided to become a singer at a young age.
 (C) IU didn't give up on her dream and became a successful singer.
-8. "She often gives her money to those in need." What do we know about IU?   My answer: [[A|4]]
+6. "She often gives her money to those in need." What do we know about IU?   My answer: [[A|4]]
 (A) IU is kind.   (B) IU has a lot of money.   (C) IU is thankful to her fans.
+7. 🔗 Think about Yuki in the Dialogue. IU and Yuki are both good at singing. What problem did each one have? What did each one need besides talent (天分)?
+lines: 3 | IU's relatives made fun of her dream, and many companies said no. She needed to keep trying. Yuki gets butterflies in front of people. She needs to keep practicing and be brave. | IU 與 Yuki 各寫困擾＋還需要什麼；要有文本根據（Reading＋Dialogue）
+8. 💡 Big Question: Was being good at singing enough for IU? Use 2 pieces of evidence from the text.
+lines: 2 | No. She was good at singing, but she also needed to keep trying. She went to about twenty auditions, and her first success came three years after a company signed her. | Yes / No 皆可，要有兩個課文證據；說 No 的常見證據：二十次試鏡、被嘲笑仍不放棄、三年後才成功
 
-step: 🧠 Do Grammar 1 and 2 below.
+step: 🧠 Do Grammar 1-3 below.
 ### ■ Grammar: to V, V-ing, and besides + V-ing
 1. Find the words in the reading. Fill in the blanks.
 IU decided [[to become|12]] a singer.　Many people started [[listening|12]] to her music.　Besides [[singing|10]], IU also writes songs.
@@ -73,8 +104,11 @@ IU decided [[to become|12]] a singer.　Many people started [[listening|12]] to 
 "IU decided becoming a singer. Besides sing, she also acts."
 [[IU decided to become a singer. Besides singing, she also acts.|60]]
 Why? [[After "decide," we use to V. After "besides," we use V-ing.|60]]
+3. Write 1 sentence about you. Use **besides + V-ing**.
+lines: 1 | Besides playing basketball, I also practice the piano every day. | Besides＋V-ing＋also，主詞與動詞正確
 
-step: 👥 Check Part A and Grammar with a partner.
+step: 👥 Compare Questions 7 and 8 with a partner. Point to your evidence. If you don't agree, ask "Why?"
+step: 👥 Check Grammar with your partner.
 ### Part B: Strategy Transfer - A New Story (CAP 短文)
 step: 👤 Read the story 1 time. Do not stop at new words.
 step: 🧠 Circle the time words in the story.
@@ -88,7 +122,7 @@ Now, besides studying at college, Ming teaches kids to build robots on weekends.
 [/box]
 key: Part B 為 Claude 依會考閱讀題型自編的 CAP-style 人物故事（約 155 字），非會考原題；文體與課文相同（依時間順序的成功故事）。
 
-step: 🧠 Answer Questions 1-4. Write the key words.
+step: 🧠 Answer Questions 1-5. Write the key words.
 1. What is the main idea of the story?   My answer: [[B|4]]
 (A) Ming's grandpa gave him an old radio.
 (B) Ming kept trying and became a robot maker who helps others.
@@ -105,6 +139,8 @@ Key words: [[when he was ten → 2016 → two years later → now|40]]
 4. "He doesn't ask for any money." What do we know about Ming?   My answer: [[B|4]]
 (A) He is rich.   (B) He likes helping others.   (C) He doesn't like money.   (D) The kids are poor.
 Key words: [[teaches kids / wants more kids to love science|40]]
+5. 💡 Ming was good at fixing things. Was that enough to win first prize? What else did he do?
+lines: 2 | No. His robot stopped working at the first contest. After that, he worked on his robot every day and read many books about robots. | 指出第一次失敗＋兩個「另外做的事」（每天做機器人、讀很多書）
 
 step: 🧠 Fill in Ming's timeline below.
 widths: 26 74
@@ -115,16 +151,62 @@ widths: 26 74
 | [[two years later (2018)|16]] | [[He won first prize with his robot dog, Lucky.|50]] |
 | [[now|16]] | [[He studies at college and teaches kids on weekends.|50]] |
 
-step: 👥 Check Part B with a partner. Talk about Question 3.
-step: 📋 Listen to your teacher.
+step: 👥 Talk about Question 3 with a partner. Show your time words.
+step: 👥 Read your Question 5 to your partner. What is the same about IU and Ming?
+### Part C: AI Detective - Is the AI Right? (AI 偵探)
+step: 👤 Read the AI summary below. AI wrote it about IU's Story.
+[box]
+🤖 AI Summary of "IU's Story"
+① IU is a successful Korean singer with fans all over the world.
+② She found her love for music in elementary school.
+③ In the seventh grade, she decided to become a singer, but her relatives made fun of her dream.
+④ She went to about twenty auditions, and a company signed her in 2007.
+⑤ Three years later, her song "Good Day" became a success.
+⑥ Now IU doesn't sing anymore. She only writes songs and acts.
+⑦ She gives money to people in need because she wants more fans.
+[/box]
+step: 🧠 Some sentences are wrong. Check each one with pp. 79-80.
+step: 🧠 Fill in the table in C1. Write the paragraph (Para) number.
+### ■ C1. Check the AI
+small-table
+widths: 9 11 11 69
+| No. | ✓ / ✗ | Para | If ✗, fix it with words from the text. |
+|---|---|---|---|
+| ① | [[✓|4]] | [[1|4]] | [[(no fix needed)|60]] |
+| ② | [[✗|4]] | [[2|4]] | [[She found her love for music in junior high school.|60]] |
+| ③ | [[✓|4]] | [[2|4]] | [[(no fix needed)|60]] |
+| ④ | [[✓|4]] | [[3|4]] | [[(no fix needed)|60]] |
+| ⑤ | [[✓|4]] | [[3|4]] | [[(no fix needed)|60]] |
+| ⑥ | [[✗|4]] | [[4|4]] | [[Besides singing, IU also writes songs and acts.|60]] |
+| ⑦ | [[✗|4]] | [[4|4]] | [[The text doesn't say why. It says she is a good example for young people.|60]] |
+step: 🧠 What kind of mistake is each ✗? Write the number in C2.
+### ■ C2. Kinds of AI Mistakes
+small-table
+widths: 40 60
+| Kind of Mistake | Sentence No. |
+|---|---|
+| A wrong fact (事實錯了) | [[②|20]] |
+| A wrong word meaning (誤解字義) | [[⑥|20]] |
+| Guessing too much (課文沒說) | [[⑦|20]] |
+step: 🧠 Answer the question below. Use full sentences.
+Look at ⑥. Why did AI make this mistake? What does "besides" mean?
+lines: 2 | AI thought "besides singing" means "not singing." But "besides" means "and also," so IU still sings. | 說出 besides＝除了…之外還…，IU 仍然在唱歌
+step: 🧠 Write your own rule in C3. Start with "Before I believe AI, I will …"
+### ■ C3. My AI Check Rule
+lines: 1 | Before I believe AI, I will find the same words in the text. | 一個做得到的檢查動作（回課文找、看段落、問老師或查第二個來源）
+step: 🧠 Go back to our table question in Task 1. Answer it now. Write the Para.
+lines: 2 | IU didn't give up because she loved music and wanted to be a singer. She went to about twenty auditions. (Para 2-3) | 回答全班問題＋課文證據段落
+
+step: 👥 Compare C1 and C2 with your table. If you have different answers, show the Para.
+step: 📋 Listen to your teacher. Learn the class AI check rules.
 ## Task 3: My Dream Timeline (我的夢想時間軸・生涯寫作)
 flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
 step: 👤 Look at IU's timeline again.
 step: 🧠 Answer Questions 1 and 2.
-1. IU's relatives made fun of her dream. Why do you think she didn't give up?
-lines: 2 | She loved music very much, and she believed in herself. Every audition helped her learn more. | 從熱情／相信自己／從失敗學習等角度說明並給理由
-2. What does it take to be successful? Choose 2: hard work / passion / talent / determination / luck / other. Why?
-lines: 2 | I think hard work and determination are the most important. IU went to twenty auditions, and she didn't stop. | 選 2 項＋用 IU 或自己的例子說明
+1. Imagine you are IU in the seventh grade. Your relatives make fun of your dream. What do you say to yourself? Why?
+lines: 2 | I say, "I love music. I will keep trying." I know one "No" is not the end. Every audition can help me learn. | 以 IU 的角度寫一句自我對話＋理由（熱情／相信自己／從失敗學習）
+2. Talent is not enough. What else does it take? Choose 2: hard work / passion / determination / luck / help from others / other. Use IU, Yuki, or Ming as an example.
+lines: 2 | It takes hard work and determination. Ming's robot stopped at the contest, but he worked on it every day and won two years later. | 選 2 項＋用 IU、Yuki 或 Ming 的例子說明
 
 step: 🧠 Make your dream timeline below. Write 4 stops.
 ### ■ My Dream Timeline (我的時間軸)
@@ -138,9 +220,9 @@ widths: 22 78
 
 step: 🧠 Write your paragraph. Use 60-80 words.
 ### ■ My Dream Paragraph (60-80 words)
-Include: (1) your dream job, (2) your timeline with time words, (3) 2 things it takes, (4) "If people make fun of my dream, I will …"
-lines: 7 | I want to be a vet because I love animals. Now, I am studying hard in junior high school. In 2029, I plan to go to a senior high school with a good science program. In 2033, I hope to study animal science at college. It takes hard work and passion. If people make fun of my dream, I will not give up, just like IU. | 60–80 字；有夢想職業、至少 3 個時間詞、2 個成功要素、最後一句不放棄的回應
-step: 👥 Read a partner's timeline. Ask 1 question.
+Include: (1) your dream job, (2) your timeline with time words, (3) what you are good at, and why that is not enough, (4) "If people make fun of my dream, I will …"
+lines: 7 | I want to be a vet because I love animals. I am good at science, but that is not enough. I also need to work hard and be brave. Now, I study hard in junior high school. In 2029, I plan to go to a senior high school with a good science program. In 2033, I hope to study animal science. If people make fun of my dream, I will not give up, just like IU. | 60–80 字；夢想職業、至少 3 個時間詞、「我擅長…但還不夠，還需要…」、最後一句不放棄的回應
+step: 👥 Read a partner's paragraph. Ask 1 question about "what else you need."
 step: 📢 Tell 2 partners your plan. Get their names.
 step: 📋 Listen to your teacher.
 ✍️ Partner 1: ______________　✍️ Partner 2: ______________
@@ -149,7 +231,7 @@ step: 📋 Listen to your teacher.
 flow: 👤 自學 → 📢 表達
 step: 👤 Open your book to pp. 79-80. Read it 2 times.
 step: 📢 Scan the QR code. Record the whole reading.
-step: 📢 Then tell IU's story with your timeline. Talk for 30 seconds.
+step: 📢 Then tell IU's story with your timeline. Say if talent was enough for her. Talk for 30 seconds.
 step: 👤 Listen to your recording. Check the boxes. Then send it.
 qr: U4 Reading recording: whole reading + 30-second timeline story
 Check Point: □ clear voice   □ whole reading   □ 4 time words   □ 30 seconds
@@ -158,37 +240,43 @@ Check Point: □ clear voice   □ whole reading   □ 4 time words   □ 30 sec
 flow: 👤 自學 → 📋 統整
 step: 👤 Scan the QR code. Watch the video.
 step: 🧠 Write your notes on Handout pp. 72-73.
+step: 🧠 At the end of your notes, answer the Big Question again: I used to think … Now I think …
 step: 📋 Take a photo of your notes. Upload it.
 qr: U4 Reading explanation video + notes upload
 
 === TEACHER GUIDE ===
-適用：S1（全英文、無 Word Bank；自己找時間詞、推算年份、說明文法）。課本 pp. 79–80，CD2: 27–30。
+適用：S1（全英文、無 Word Bank；自己找時間詞、推算年份、說明文法；比較 IU 與 Yuki）。課本 pp. 79–80，CD2: 27–30。
 
-## Task 1: Strategy Lab - Timeline（15 分鐘）
+**核心問題（與 Dialogue 同題，四軌同題）：Is being good at something enough to make a dream come true?** Dialogue 的 Yuki「很會唱但會緊張」，Reading 的 IU「很會唱但被嘲笑、試鏡約二十次、三年後才成功」。Task 2 Part A 第 7 題把兩人放在一起比較（遷移），第 8 題用兩個課文證據回答；Part B 第 5 題再用 Ming 驗證一次；Task 3 寫自己「擅長什麼、為什麼還不夠」；Task 5 筆記最後 I used to think … Now I think …。
+
+## Task 1: Strategy Lab - Timeline（23 分鐘）
 - 目的：用「找時間詞 → 排順序 → 寫事件 → 說故事」四步，把 IU 的四個時期放上時間軸（呼應 While You Read：Find the four time periods）。
-- 步驟：播 CD2: 27–30 一次 → 學生自讀並圈時間詞 → 填時間軸 → 兩句說故事 → 兩兩核對 → 小組用時間軸說故事。
+- Bloom：理解（排序、摘要）｜會考能力：時間序列、段落大意。
+- 步驟：播 CD2: 27–30 一次 → 學生自讀並圈時間詞 → 填時間軸 → 兩句說故事 → 兩兩找出對方漏掉的一站 → 小組用時間軸說故事。
 - 📋 統整：黑板畫時間軸 in the seventh grade → in 2007 → (three years later) 2010 → now，每站一句事件；對照課本 p. 81 B。
 - 常見錯誤：把 junior high school 也當成一站（它是背景，七年級才是事件點）；2010 沒算出來，只寫 three years later。
+- 新增活動｜暖身 Question Storm（約 8 分鐘）：在聽課文之前。依 Right Question Institute 的 QFT 提問法：提問焦點 → 四規則產生問題 → 分 C／O → 選 ⭐ → 同桌選 1 題寫進「Our Table Question」就停。這是小探究循環的「提問」階段，學生先問，AI 不出場；每桌的問題可以不同。
 
-## Task 2: Strategy Practice（20 分鐘）
-- 目的：Part A 由細節到推論（Q4 不放棄、Q5 推算年份、Q7 主旨、Q8 言外之意），並操作 to V / V-ing / besides + V-ing；Part B 用同一 timeline 策略讀陌生人物故事。
-- 步驟：Part A 個人 8 分 → 兩兩指出課本證據 → Grammar；Part B 計時 6 分（先圈時間詞）→ 作答 → 兩兩討論第 3 題排序。
-- 📋 統整：①decide to V、start V-ing / to V、besides V-ing；②時間詞推算（2007 + 3 = 2010；2016 + 2 = 2018）；③Part B 答案 1B 2C 3A 4B，示範「排序題」先把時間詞標號再對選項。
-- 常見錯誤：Q5 寫 2007；Grammar 寫 Besides sing；Part B Q2 選 B（看到 2016 就選，沒讀 two years later）。
+## Task 2: Strategy Practice（35 分鐘）
+- 目的：Part A 由細節到推論、作者意圖、跨文本比較、核心問題；操作 to V / V-ing / besides + V-ing；Part B 用同一 timeline 策略讀陌生人物故事並再驗證核心問題。
+- Bloom：Part A 1 記憶｜2 推論＋證據｜3 推論（計算）｜4 分析（作者意圖）｜5–6 理解（主旨、言外之意）｜7 連結／遷移｜8 評鑑。Grammar 應用＋創造。Part B 1–4 理解、5 評鑑。｜會考能力：細節、推論、主旨、作者意圖、時間序列。
+- 步驟：Part A 個人 10 分 → 兩兩比較 7、8 的證據（意見不同要問 Why）→ Grammar；Part B 計時 7 分（先圈時間詞）→ 作答 → 兩兩討論第 3 題排序與第 5 題「IU 和 Ming 的共同點」。
+- 📋 統整：①IU vs. Yuki 對照表（都很會唱｜困擾：被嘲笑、被拒絕 vs. 在人前緊張｜還需要：不放棄、一直試 vs. 持續練習、勇敢）；②decide to V、start V-ing / to V、besides V-ing；③時間詞推算（2007 + 3 = 2010；2016 + 2 = 2018）；④Part B 答案 1B 2C 3A 4B，示範「排序題」先把時間詞標號再對選項。
+- 常見錯誤：Q2 只寫 She didn't give up 沒給證據；Q4 只寫一個理由；Q7 只寫 IU、忘了 Yuki；Grammar 寫 Besides sing；Part B Q2 選 B（看到 2016 就選，沒讀 two years later）。
+- 新增活動｜Part C AI Detective（約 12 分鐘）：AI 摘要埋了 3 個錯：② 事實錯（junior high school，Para 2，對照 Part A 第 1 題）；⑥ 字義錯（besides＝除了…還，IU 仍在唱歌，Para 4，對照 Grammar）；⑦ 推論過頭（課文沒說原因，Para 4）。①③④⑤ 正確（⑤ three years later＝2010，對照 Part A 第 3 題）。最後回到 Task 1 各桌的問題，用課文證據回答，小探究循環在這裡收尾。
 
 ## Task 3: My Dream Timeline（15 分鐘）
-- 目的：SEL＋生涯——用本課策略規劃自己的未來，並思考被嘲笑時如何堅持（成長型思維）。
-- 步驟：思考題 2 題（4 分）→ 自己的時間軸 4 站（3 分）→ 60–80 字段落（8 分）→ 夥伴提問 → 說給 2 位夥伴。
-- 📋 統整：全班票選「最重要的成功要素」（hard work / passion / determination…）；示範 2 句好句：In 20XX, I plan to … / If people make fun of my dream, I will …
+- 目的：SEL＋生涯——用本課策略規劃自己的未來；說出「我擅長什麼、為什麼還不夠」，並思考被嘲笑時如何堅持（成長型思維）。
+- Bloom：應用（換位思考）＋評鑑（選成功要素並舉例）＋創造（自己的時間軸與段落）。
+- 步驟：思考題 2 題（4 分）→ 自己的時間軸 4 站（3 分）→ 60–80 字段落（8 分）→ 夥伴針對「還需要什麼」提問 → 說給 2 位夥伴。
+- 📋 統整：全班票選「天分之外最重要的要素」（hard work / passion / determination…），請 2 位同學用 IU、Yuki 或 Ming 舉例；示範好句：I am good at …, but that is not enough. I also need to … / If people make fun of my dream, I will …
 - 常見錯誤：時間軸沒有年份或順序錯；I plan being（plan 後接 to V）。
 
 ## Task 4: Reading Aloud Evaluation（課後）
-- 評分重點：全文清楚、年份唸法（two thousand seven / twenty ten）、30 秒用 4 個時間詞說故事。
+- 評分重點：全文清楚、年份唸法（two thousand seven / twenty ten）、30 秒用 4 個時間詞說故事並說出天分夠不夠。
 
 ## Task 5: Reading Explanation（課後）
-- 目的：影片複習 timeline 四步、時間詞推算、to V / V-ing；筆記寫在 Handout pp. 72–73 並上傳。
-- 下一堂：抽 3 位學生用時間軸說 IU 的故事。
+- 目的：影片複習 timeline 四步、時間詞推算、to V / V-ing；筆記寫在 Handout pp. 72–73，最後用 I used to think … Now I think … 再答核心問題，並上傳。
 
 ## 課前檢核
-- □ 班級 QR 已內建，請試掃一次。 □ CD2: 27–30 可播放。 □ Handout 頁碼 pp. 72–73。
-- □ 與 S2–S4 核對：時間軸答案、Part A、Part B 答案 1B 2C 3A 4B、三核心句、夢想時間軸題目一致。
+- □ 班級 QR 已內建，請試掃一次。 □ CD2: 27–30 可播放。 □ 與 S2–S4 核對：時間軸、Part A、Part B 答案 1B 2C 3A 4B、核心問題、三核心句、夢想時間軸題目一致。
