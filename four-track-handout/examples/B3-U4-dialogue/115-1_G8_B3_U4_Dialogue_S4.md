@@ -29,6 +29,7 @@ step: 🧠 讀下面的「切音節小秘訣」和範例。
 
 step: 🧠 每個字拍一拍，寫出 Claps 和 Sound chunks。Core Words 畫一個 My Image。KK 和中文用來檢查。
 ### ■ A. Core Words（10）— 每個字畫一個 My Image
+bloom: 理解＋應用（拍音節、切音、畫圖記意思）
 widths: 17 10 22 19 16 16
 | Word | Claps | Sound chunks | KK | Meaning | My Image |
 |---|---|---|---|---|---|
@@ -44,6 +45,7 @@ widths: 17 10 22 19 16 16
 | butterflies | [[3|3]] | [[but / ter / flies|10]] | [ˋbʌtɚˏflaɪz] | 蝴蝶（複數） | |
 
 ### ■ B. Support Words（8）— My Image 選填
+bloom: 理解＋應用（拍音節、切音）
 widths: 17 10 22 19 16 16
 | Word | Claps | Sound chunks | KK | Meaning | My Image |
 |---|---|---|---|---|---|
@@ -81,6 +83,7 @@ flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
 step: 👤 闔上課本，聽對話音檔 (CD2: 20-23)。
 step: 🧠 第一次聽：在 A 聽到的字打勾 ✓。
 ### ■ A. 我聽到了！(I heard it!)
+bloom: 記憶（聽辨單字）
 widths: 22 15 22 15 26
 | Word | I heard it | Word | I heard it | Meaning |
 |---|---|---|---|---|
@@ -91,6 +94,7 @@ key: 六個字都出現在對話中，全部打勾。
 
 step: 🧠 第二次聽：在 B 圈出聽到的字。
 ### ■ B. 三個核心句 (Core Sentences) — 圈出聽到的字
+bloom: 記憶（聽辨）＋理解（看中文懂句意）
 1. I enjoy {{making* / watching}} videos, and I hope to be a famous YouTuber one day.
 　（我喜愛製作影片，我希望有一天能成為有名的 YouTuber。）
 2. I plan to be a {{lawyer* / teacher}}.
@@ -100,6 +104,7 @@ step: 🧠 第二次聽：在 B 圈出聽到的字。
 
 step: 🧠 完成 C 連連看：誰想當什麼？
 ### ■ C. 誰想當什麼？連連看 (Match)
+bloom: 理解（人物＋夢想職業）
 widths: 30 70
 | Who | 夢想職業（填代號） |
 |---|---|
@@ -111,6 +116,7 @@ key: S4 代號順序與課本 B 不同（本題選項為 A singer、B YouTuber�
 
 step: 🧠 18 個字都做紅綠燈（D）。
 ### ■ D. 🚦 單字紅綠燈 (Word Traffic Light) — 18 個字全部都要分類
+bloom: 評鑑（誠實自評自己的學習）
 🟢 Go：我一看到就會唸、會拼、知道意思。　🟡 Almost：差一點。　🔴 Stop：我需要救援！
 small-table
 widths: 22 13 13 13 26 13
@@ -130,6 +136,7 @@ key: 紅綠燈沒有標準答案，依學生自評；請巡堂確認每個字都
 
 step: 🧠 選 3–4 個 🟡 或 🔴 的字，到救援站（E）救援。
 ### ■ E. 🛟 單字救援站 (Word Rescue Station)
+bloom: 應用＋評鑑（選適合自己的救援法）
 從 🟡 或 🔴 選 3–4 個字。每個字選一種救援方法，寫下你的筆記。
 ✨ A. 生活例句魔法　🎨 B. 小畫家記憶法　🔦 C. 錯點螢光筆　🔊 D. 諧音小幫手
 widths: 20 30 50
@@ -153,12 +160,14 @@ step: 📋 聽老師統整：誰想當什麼？
 flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
 step: 👥 兩人一組玩乒乓賽：Level 1 指字說英文，Level 2 聽中文說英文。
 ### ■ A. 單字乒乓賽
+bloom: 記憶（快速提取單字）
 Word Bank: YouTuber / video / famous / future / lawyer / singer / practicing / worry / channel / butterflies / job / hope / plan / help / dream / idea / stomach / wig
 Level 1：Student A 指單字 → Student B 說英文；換人。　✍️ Partner: ______________
 Level 2：Student A 說中文 → Student B 說英文；換人。　✍️ Partner: ______________
 
 step: 🧠 完成 B 的鼓勵句。
 ### ■ B. 別擔心！(Don't worry!)
+bloom: 應用＋評鑑（選點子幫 Yuki）
 Friend: "I get butterflies when I sing."
 You: "Don't [[worry|8]]. Just keep [[practicing|12]]."
 Word Bank: worry / hurry / practicing / sleeping
@@ -169,6 +178,7 @@ key: 三個都是合理的點子，勾任一個都對。
 step: 📢 掃螢幕上的 QR，找到自己桌的卡（例如 801-T3），名字寫 801-T3。
 step: 📢 在留言打 B 的鼓勵句和勾的點子（也可以按＋上傳照片）。
 step: 🧠 看另外兩桌的卡，每一桌勾一個三明治。
+bloom: 評鑑（給別桌回饋）
 small-table
 widths: 14 86
 | Table | 我的三明治 My Sandwich |
@@ -181,6 +191,7 @@ step: 📢 把勾好的三明治留在他們的卡下（可請同桌幫忙打）
 
 step: 🧠 完成 C 的 My 3 Sentences（我的三句）。
 ### ■ C. My 3 Sentences — 我的夢想職業
+bloom: 應用＋創造（說自己的夢想，回應核心問題）
 Idea Bank: teacher 老師 / vet 獸醫 / singer 歌手 / YouTuber / drawing 畫畫 / cooking 做菜 / singing 唱歌 / playing games 玩遊戲
 widths: 30 70
 | My 3 Sentences | Fill in (填寫) |
@@ -188,7 +199,7 @@ widths: 30 70
 | 1. 我想當…… | I want to be a ______________________. |
 | 2. 我喜歡做…… | I enjoy ______________________ (V-ing). |
 | 3. 我希望有一天…… | I hope to be a ______________ one day. |
-step: 📢 對三位同學說三句：1 分鐘、45 秒、30 秒。每輪請同學簽名，並寫一個清楚的字、一個不清楚的字。
+step: 👥 對三位同學說三句：1 分鐘、45 秒、30 秒。每輪請同學簽名，並寫一個清楚的字、一個不清楚的字。
 small-table
 widths: 10 16 26 16 16 16
 | Round | Time | Partner's Signature | Stars | ✓ 清楚的字 | ? 不清楚的字 |
@@ -202,9 +213,10 @@ step: 🧠 下一輪說之前，把「不清楚的字」唸 3 次。
 
 step: 📋 聽老師統整常用句。
 ## 任務四：🔊 口說任務 (Speaking Evaluation)
-flow: 👤 自學 → 📢 表達
+flow: 👤 自學
+bloom: 應用（朗讀核心字與核心句）
 step: 👤 掃 QR code，進入 S4 口說任務頁面。
-step: 📢 按下 🎙 錄音鍵：先唸 8 個核心字，再唸 3 個核心句。
+step: 👤 按下 🎙 錄音鍵：先唸 8 個核心字，再唸 3 個核心句。
 step: 👤 聽聽看自己的錄音，跟原音像不像？打勾後送出。
 qr: S4 recording: 8 core words + 3 core sentences
 widths: 40 60
@@ -215,10 +227,11 @@ Check Point: □ 聲音清楚　□ 每個字都完整　□ 3 句都唸完
 📌 小提醒：一定要大聲唸，老師要聽到你的聲音！錄音時別太快，清楚讀出每個音節。
 
 ## 任務五：🎥 影片偵探隊 (Dialogue Explanation)
-flow: 👤 自學 → 📋 統整
-step: 👤 掃 QR code，觀看影片。
+flow: 📋 統整（影片）→ 🧠 思考（筆記）
+bloom: 理解（整理筆記）＋評鑑（紅綠燈自評）
+step: 📋 掃 QR code，看老師的講解影片。
 step: 🧠 一邊看，一邊在講義第 70–71 頁寫下老師說的筆記。
-step: 📋 拍照上傳筆記。
+step: 拍照上傳筆記。
 qr: U4 Dialogue explanation video + notes upload
 I can say "I want to be a ______."　🟢 Yes / 🟡 Almost / 🔴 Need help
 I can understand "I enjoy making videos."　🟢 Yes / 🟡 Almost / 🔴 Need help
@@ -229,28 +242,44 @@ I can understand "I enjoy making videos."　🟢 Yes / 🟡 Almost / 🔴 Need h
 ## 任務一：🏠 單字建築師（15 分鐘）
 - 目的：建立「看字會唸、聽音會拼」；18 字全部取自本課對話。
 - 步驟：掃課本 QR 聽單字（CD2: 24）→ 帶全班拍 YouTuber 範例 → 學生自己完成 Claps／Sound chunks → 兩兩核對。KK 助念員（本教用版上方）可在帶唸時投影。
-- 📋 統整：重音（FA·mous、FU·ture、LAW·yer、BUT·ter·flies 在第一音節；i·DE·a 在第二音節）；practicing 去 e 加 ing。
+- Bloom：理解＋應用（拍音節、切音）｜會考能力：字彙辨識、拼讀。
+- 📋 統整腳本：
+  - 整理：巡堂看到最常切錯的 2–3 個字。
+  - 點出重點：重音（FA·mous、FU·ture、LAW·yer、BUT·ter·flies 在第一音節；i·DE·a 在第二音節）；practicing 去 e 加 ing。
+  - 連回核心問題：Yuki 很會唱歌，但還要 practicing——先把這個字唸熟。
 - 常見錯誤：把 Sound chunks 切成字母；idea 只拍 2 拍（i / de / a 是 3 拍）。
 
 ## 任務二：🎧 聽力單字捕手＋🚦紅綠燈與救援站（15 分鐘）
 - 目的：在原對話中聽出關鍵字與 3 核心句；誠實自評並救援 3–4 字。
 - 步驟：播 CD2: 20–23 兩次（闔書）→ 開書核對 → 連連看 → 紅綠燈 18 字 → 救援站。
-- 📋 統整：黑板夢想職業表 Zac–YouTuber／Cody–lawyer／Yuki–singer（與 S1–S3 相同）；enjoy making、hope to be 用顏色標示。
+- Bloom：記憶（聽辨）＋理解（連連看）＋評鑑（紅綠燈自評、選救援法）｜會考能力：聽力細節、字彙。
+- 📋 統整腳本：
+  - 整理：黑板夢想職業表 Zac–YouTuber／Cody–lawyer／Yuki–singer（與 S1–S3 相同）。
+  - 點出重點：三個核心句帶唸 2 次；問幾位學生救援了哪個字、用哪一招。
+  - 連回核心問題：Yuki 很會唱歌，這樣就夠了嗎？（Task 3 再回答）
 - 常見錯誤：B1 圈 watching（沒聽清楚 making）；連連看把 Zac 和 Cody 搞混。
 
 ## 任務三：🏓 單字乒乓賽與三句挑戰（20 分鐘）
 - 目的：單字自動化提取；用 3 句說自己的夢想職業（與 S1–S3 同主題）；SEL 鼓勵句 Don't worry. Just keep practicing.
 - 步驟：Level 1、Level 2 各 2 分鐘 → 鼓勵句 → 三句填寫 → 三輪 1 分／45 秒／30 秒。
-- 📋 統整：全班一起說 Don't worry. Just keep practicing!
-- 常見錯誤：I enjoy draw（漏 -ing）；I want to be a sing（要用 singer）。
-- 新增活動｜小組牆（約 10 分鐘）：Part A 之後，同桌選出最好的點子，掃投影的 QR 到 Workshop Wall「B3U4 Dialogue Task 3 小組牆｜801／816」，在自己桌的卡（801-T1～T8）下留言；再替兩桌留三明治回饋。下課後匯出牆上文字交給 Claude，整理成「全班亮點 3 個＋共同卡關 2 個」，下一堂開場講評並開放第 2 欄「老師統整」。
-- 新增活動｜同伴聆聽：4-3-2 表格多兩欄，聽的人每輪寫一個清楚、一個不清楚的字；說話者下一輪前把不清楚的字唸 3 次。之後在 Fluency Challenge 錄同一題時，請學生看「發音清晰」有沒有進步。
+- Bloom：記憶（乒乓提取）＋應用＋創造（我的三句）＋評鑑（三明治回饋）｜會考能力：口說表達。
+- 小組牆不在當堂統整：下課匯出牆上文字，下一堂開場講評。
+- 📋 統整腳本（三句挑戰結尾）：
+  - 整理：請 2 位學生說自己的三句。
+  - 點出好句子：有說出夢想職業＋喜歡做的事的三句最完整。
+  - 連回核心問題：很會還不夠，還要練習——全班一起說 Don't worry. Just keep practicing!
+- 常見錯誤：I want to be a sing（要用 singer）；第 2 句只寫一個字、沒寫成句子。
+- 小組牆（約 10 分鐘）：Part A 之後，同桌選出最好的點子，掃投影的 QR 到 Workshop Wall「B3U4 Dialogue Task 3 小組牆｜801／816」，在自己桌的卡（801-T1～T8）下留言；再替兩桌留三明治回饋。下課後匯出牆上文字交給 Claude，整理成「全班亮點 3 個＋共同卡關 2 個」，下一堂開場講評並開放第 2 欄「老師統整」。
+- 同伴聆聽：4-3-2 表格多兩欄，聽的人每輪寫一個清楚、一個不清楚的字；說話者下一輪前把不清楚的字唸 3 次。之後在 Fluency Challenge 錄同一題時，請學生看「發音清晰」有沒有進步。
 
 ## 任務四：🔊 口說任務（課後）
+- Bloom：應用（朗讀）｜會考能力：發音、口說。
 - 評分重點：8 核心字＋ 3 核心句清楚完整；不要求完整對話。
 
 ## 任務五：🎥 影片偵探隊（課後）
-- 目的：影片複習夢想職業與核心句；兩題自評作為下一堂再教依據。
+- 目的：影片（老師錄好的統整）複習夢想職業與核心句；兩題自評作為下一堂再教依據。
+- Bloom：理解（整理筆記）＋評鑑（紅綠燈自評）｜會考能力：歸納。
+- 下一堂開場：看上傳筆記與自評，🔴 多的字先再帶唸。
 
 ## 課前檢核
 - □ 班級 QR 已內建，請試掃一次。 □ CD2: 20–24 可播放。 □ 3 核心句與 S1–S3 一致。 □ ⚠ KK 已對照課本 Word Bank。

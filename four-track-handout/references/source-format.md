@@ -35,6 +35,8 @@ small-table                                          ← 下一個表格用 10.5
 lines: 3                                            ← 3 條寫線
 lines: 2 | It was cold. | 有天氣形容詞即可           ← 開放題：教用版顯示紅字範例＋條件
 key: 答案：1. A  2. C  3. B                         ← 只出現在教用版的紅字註記
+bloom: 1 理解｜2 推論｜3 評鑑                         ← 只出現在教用版的灰色小字「🎯 Bloom：…」，放在 ### 小標下一行
+step: Take a photo of your notes. Upload it.        ← 不放圖示的步驟（純操作）
 qr: U3 Dialogue recording — full Dialogue + 30-second extension
 [box]                                               ← 外框文字框（策略說明、範例）
 📖 What is a timeline?

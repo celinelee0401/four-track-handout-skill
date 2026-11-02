@@ -10,12 +10,12 @@
 | **T2 Strategy Practice** | Part A 與 Part B 都用 T1 的同一策略 | 見下方 | 見下方 | 見下方 | 見下方 |
 | **T3 Theme Thinking & Writing** | 同一個主題問題、同一個思考常規、同一個寫作成品（對象／目的相同） | 開放寫作 60–80 字，含證據與連接詞；回應核心問題 | organizer ＋引導問題，40–60 字；回應核心問題 | 句框＋ Idea Bank（含干擾）3–4 句，含一句回應核心問題 | 勾選理由＋ 1–2 句句框 |
 | **T4 Oral Evaluation**（QR） | 掃 QR 朗讀課本 Reading 錄音，Check Point 自聽 | 全文 | 全文 | 全文（或指定段落） | 核心字＋ 3 句來源句 |
-| **T5 Reading Explanation**（QR） | 掃 QR 看解說影片，手寫筆記於講義指定頁，筆記最後用 I used to think … Now I think … 再答核心問題，拍照上傳 | 同 | 同 | 同 | 同 |
+| **T5 Reading Explanation**（QR） | `📋` 掃 QR 看解說影片（老師統整）→ `🧠` 手寫筆記於講義指定頁 → `🧠` 筆記最後用 I used to think … Now I think … 再答核心問題 → 拍照上傳（不放圖示） | 同 | 同 | 同 | 同 |
 
 ## T2 Strategy Practice（兩部分）
 
 ### Part A｜Question Ladder on the textbook text
-同一組 4–8 題，由 Local（細節）→ Global（大意、作者目的、言外之意）→ 連結（和 Dialogue 人物比較）→ 核心問題。答案都回課文找證據；事實題最多 1/3（philosophy.md §4a）。
+同一組 4–8 題，由 Local（細節）→ Global（大意、作者目的、言外之意）→ 連結（和 Dialogue 人物比較）→ 核心問題。答案都回課文找證據；事實題最多 1/3（philosophy.md §4a）。**不放文法題**（philosophy.md §4b）。
 - S1：開放問題，完整句，標 Para。
 - S2：同題；事實題自己寫短句（不給句框），推論／判斷題給 because 句框。
 - S3：同題；選擇題換句話問（不和原文同字），選完抄證據字或寫理由；干擾項來自課文其他地方。
@@ -28,6 +28,13 @@
 - **S3**：同一篇短文但簡化：100–130 字、句子較短、生字加 Word Bank 中文註解；3 題，選項 3–4 個；選完寫證據字；策略圖用 Word Bank（含干擾）填，不預填。
 - **S4**：60–80 字迷你短文，盡量用本課 Core／Support 字重組，搭配 emoji 或圖片提示；2 題三選一（關鍵字加中文）；證據用「圈出文中的字」；策略圖只填 2–3 格（從框內選字）。目的：S4 也能完整體驗「用策略讀一篇新文章」並成功。
 - **禁止**：先寫 first topic 再 keep/change 的流程；各單元共用同一組選項；與課本文章只換名字的克隆文。
+
+## 圖示與停點（philosophy.md §3a–3b）
+
+- T1 Strategy Lab：初學策略，**中途一個 📋 停點**放在策略圖做完、用它寫大意之前（例：U4 時間軸 A → 📋 → B）；結尾用 👥 收尾，不再放第二個 📋。說給同桌聽是 👥。
+- T2：Part A、Part B 中途不停；Task 結尾一個 📋。
+- T3：結尾一個 📋，具體說統整什麼（例：示範一段好段落）。說給夥伴聽是 👥。
+- T4：錄音是 👤。T5：📋 放在看影片那一步；上傳不放圖示。
 
 ## T3 主題選擇
 

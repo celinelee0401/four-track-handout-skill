@@ -22,6 +22,8 @@ Unit 4 Reading: IU's Story｜Before You Read p. 78｜課文 pp. 79–80｜After 
 
 ## 文法焦點（本課 Grammar Focus 在課文中的出現）
 
+> **2026-11-02 起講義不出文法題**（philosophy.md §4b）：本段只給老師參考；文法改在文法課講，視覺卡見 `U4/文法/LoiLo卡片/`。下方「四軌共用文法操作」為舊版紀錄，已不使用。
+
 1. 動詞＋**to V**：decided **to become** a singer。
 2. 動詞＋**V-ing**／兩者皆可：started **listening** to her music（start 可接 to V 或 V-ing）。
 3. 介系詞＋**V-ing**：**besides singing**。

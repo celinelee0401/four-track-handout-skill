@@ -8,7 +8,7 @@ filename: 115-1_G8_B3_U4_Dialogue_LoiLo卡片
 cover: true
 title: 🎤 U4 Dialogue: Our Dream Jobs
 統整卡 Summary Cards · S1–S4 共用
-❓ Is being good at something enough? · to V / V-ing · Being a singer …
+❓ Is being good at something enough? · Dream jobs · Yuki's problem · Which advice?
 
 === card
 tag: Big Question
@@ -60,37 +60,6 @@ title: 💡 Which advice can help Yuki more in the future?
 [box]
 Both answers are OK. Give a reason from the Dialogue! 兩種都可以，重點是理由。
 [/box]
-
-=== card
-tag: T2 Grammar
-title: 🧩 to V or V-ing? (from the Dialogue)
-| verb + **to V** | verb + **V-ing** |
-|---|---|
-| hope [[to be]] | enjoy [[making]] |
-| want [[to be]] / want [[to help]] | hate [[singing]] |
-| plan [[to be]] | keep [[practicing]] |
-[box]
-to V: want / hope / plan / need　　V-ing: enjoy / keep / practice / finish
-like / love / hate: both 兩者都可　　good at ＋ V-ing (good at singing)
-[/box]
-
-=== card
-tag: T2 Grammar
-title: 🔧 Find the mistakes. Fix them. Say why.
-- ❌ Yuki needs practicing more. → ✅ Yuki needs [[to practice]] more.
-- ❌ She hopes singing on a big stage. → ✅ She hopes [[to sing]] on a big stage.
-- Why? After "need" and "hope," we use [[to V]].
-- ❌ Zac enjoys to make videos. → ✅ Zac enjoys [[making]] videos. (enjoy ＋ [[V-ing]])
-
-=== card
-tag: T2 Grammar
-title: 🎯 V-ing as the subject (V-ing 當主詞)
-[box]
-**Being** a singer is my dream job.
-主詞 = [[Being a singer]]　　動詞 = [[is]]
-[/box]
-- Be a vet → [[Being]] a vet is my dream job.
-- It's great to have a dream. = [[Having]] a dream is great.
 
 === card
 tag: T3 Good at It, but Nervous?

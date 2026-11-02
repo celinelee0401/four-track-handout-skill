@@ -7,10 +7,10 @@
 | Task | 共同核心（四軌一致） | S1 | S2 | S3 | S4 |
 |---|---|---|---|---|---|
 | **T1 See-Think-Wonder**（S4：🏠 Word Architect） | 同一組課本插圖、同樣三個 See/Think/Wonder 問題、同一個 Think 推論焦點 | 3 句完整英文觀察；Think 要寫 because；Wonder 2 個問題；無提示 | 同題；關鍵字括號中文，不給例字清單；Wonder 指向核心問題 | 同題：Word Bank（含 2 個干擾字）完成看圖句；Think／Wonder 用句框但不給選項 | 單字建築師（見 S4 套組）|
-| **T2 Dialogue Listening**（S4：🎧 Listen & Catch） | 同一組人物／時間／事件事實；同一題文法推理（本課文法焦點） | 開放問題、完整句、無 Word Bank；加一欄推論（還需要什麼）；比較建議並指出另一個的弱點；核心問題用兩個例子回答；文法改錯＋說明 | organizer 整格空白、自己寫短語；B：抄困擾原句 → 推論為什麼嚴重 → 比較兩個建議（because 句框）→ 核心問題 Yes/No＋理由；文法：找 4 組 → 找錯改正＋why → 自己造句 | A：Job／Reason／Type Bank 都有干擾字；B：抄原句證據 → 選擇題（干擾項來自其他人物）→ 寫出建議再用 Reason Bank 判斷 → 核心問題句框；文法：自己找後面接什麼 → 分類 → 找錯改正 | 聽到打勾＋三核心句圈選；接 🚦 紅綠燈與救援站 |
+| **T2 Dialogue Listening**（S4：🎧 Listen & Catch） | 同一組人物／時間／事件事實；同一題核心問題（第一次回答）。**不放文法題**（philosophy.md §4b） | 開放問題、完整句、無 Word Bank；加一欄推論（還需要什麼）；比較建議並指出另一個的弱點；核心問題用兩個例子回答 | organizer 整格空白、自己寫短語；B：抄困擾原句 → 推論為什麼嚴重 → 比較兩個建議（because 句框）→ 核心問題 Yes/No＋理由 | A：Job／Reason／Type Bank 都有干擾字；B：抄原句證據 → 選擇題（干擾項來自其他人物）→ 寫出建議再用 Reason Bank 判斷 → 核心問題句框 | 聽到打勾＋三核心句圈選；接 🚦 紅綠燈與救援站 |
 | **T3 表達**（S4：🏓 Word Ping Pong & Mini-Fluency） | 同一個主題問題（SEL 或生活連結），同一個 4/3/2 說話題目 | Part A SEL 反思（完整句）＋ Part B Speaking Map 只寫關鍵字，要有一列「這樣夠嗎？還需要什麼？」；35/30/25 秒 | Speaking Map 引導問題（含「夠嗎？還需要什麼？」）；Speaking Help 表（Sentence Starters／Useful Phrases／Vocabulary）；35/30/25 秒 | 同題，句框＋Idea Bank（含一個不合理的干擾點子）；三明治回饋自己寫；先練句框再說；25/20/15 秒 | 乒乓賽 Level 1/2；本課關懷句（填空 2 選 1）；My 3 Sentences 句框；1 分/45 秒/30 秒 |
 | **T4 Speaking Evaluation**（QR） | 掃 QR 錄音，Check Point 自聽 | 完整 Dialogue（兩種角色聲音）＋ 30 秒延伸題 | 完整 Dialogue ＋ 30 秒延伸 | 完整 Dialogue ＋ 2–3 句（給句框） | 6–8 核心字＋ 3 原文核心句；不要求完整 Dialogue |
-| **T5 Dialogue Explanation**（QR） | 掃 QR 看解說影片，手寫筆記於講義指定頁，筆記最後用 I used to think … Now I think … 再答核心問題，拍照上傳 | 同 | 同 | 同（指令中英對照） | 同（中文指令）；可加 2 題紅綠燈自評句 |
+| **T5 Dialogue Explanation**（QR） | `📋` 掃 QR 看解說影片（老師統整）→ `🧠` 手寫筆記於講義指定頁 → `🧠` 筆記最後用 I used to think … Now I think … 再答核心問題 → 拍照上傳（不放圖示） | 同 | 同 | 同（指令中英對照） | 同（中文指令）；可加 2 題紅綠燈自評句 |
 
 T1/T2/T3 的 Task 名稱同一軌內學生版、教用版逐字相同。S1–S3 用 `See-Think-Wonder`；S4 用 `Word Architect`，不要用斜線並列。
 
@@ -21,13 +21,17 @@ T1/T2/T3 的 Task 名稱同一軌內學生版、教用版逐字相同。S1–S3 
 - S4：1 分 → 45 秒 → 30 秒（三句）。
 - 只寫本軌的秒數，絕不寫其他軌的數字。
 
-## 文法焦點
+## 文法（2026-11-02 起不放）
 
-每課 Unit Brief 必須寫出本課文法焦點（課本 Grammar Focus）。T2 必須有一題直接操作它：
-- S1：改寫＋判斷對錯並說明理由（例：Is "My parents gave me it" right? Why?）。
-- S2：自己從文本找例子分類 → 找錯改正＋說明為什麼 → 自己造一句（2026-11-01 起不再二選一）。
-- S3：自己找「這些字後面接什麼」→ 分類歸納規則 → 在三句中找錯並改正（不先給規則框）。
-- S4：在三核心句中圈選。
+講義不放任何文法題（philosophy.md §4b）；老師指定某單元要放時才放。Unit Brief 仍寫本課文法焦點給老師參考。文法視覺化講解另做「文法 LoiLo 卡」（loilo-cards.md）。
+
+## 圖示與停點（philosophy.md §3a–3b）
+
+- T1：結尾 📋 = 老師示範自己的 See/Think/Wonder 範例（教師版標「帶幾次後拿掉」）。分享 Wonder 給同桌是 👥。
+- T2：中途不停，結尾一個 📋（第一次回答核心問題）。
+- T3 Part A 小組牆：留言到牆是 📢；結尾不放 📋（下一堂開場統整）。Part B 4/3/2 說給夥伴聽是 👥；結尾一個 📋（具體說統整什麼）。
+- T4：錄音是 👤。
+- T5：📋 放在看影片那一步；上傳不放圖示。
 
 ## S3 活動樣式庫（2026-11-01 改，範例：examples/B3-U4-dialogue S3；規則見 philosophy.md §4a）
 
@@ -55,5 +59,5 @@ T1/T2/T3 的 Task 名稱同一軌內學生版、教用版逐字相同。S1–S3 
 - 🚦 紅綠燈：全部 18 字一張表（🟢 會唸會拼知道意思／🟡 差一點／🔴 需要救援）。
 - 🛟 救援站：3–4 列，每列四種救援法勾選＋筆記；附 2–4 個老師示範（用本課字）。
 - 🏓 乒乓賽：Word Bank 列出全部字；Level 1、Level 2 各夥伴簽名；小挑戰收尾三句。
-- 三核心句：取自原文、含本課文法焦點，四軌 T2／T4 共用。
+- 三核心句：取自原文、能代表本課內容與核心問題，四軌 T2／T4 共用。
 - 語氣親切：任務名加 emoji（任務一：🏠 單字建築師），中文說明短句、條列。

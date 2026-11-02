@@ -8,7 +8,7 @@ filename: 115-1_G8_B3_U4_Reading_LoiLo卡片
 cover: true
 title: 🎤 U4 Reading: IU's Story
 統整卡 Summary Cards · S1–S4 共用
-❓ Is being good at something enough? · Timeline (時間軸) · decide to V / besides V-ing
+❓ Is being good at something enough? · Timeline (時間軸) · IU and Yuki · Ming's Robot Dog
 
 === card
 tag: Big Question
@@ -81,19 +81,6 @@ title: 🔗 IU (Reading) and Yuki (Dialogue)
 | What is she good at? | [[singing]] | [[singing]] |
 | What problem did she have? | [[Her relatives made fun of her dream.]] | [[She gets butterflies in front of people.]] |
 | What else did she need besides talent? | [[keep trying / not give up]] | [[keep practicing / be brave]] |
-
-=== card
-tag: T2 Grammar
-title: 🧩 decide to V · start V-ing · besides V-ing
-| Rule | From the reading |
-|---|---|
-| decide + **to V** | IU decided [[to become]] a singer. |
-| start + **to V / V-ing** | Many people started [[listening]] to her music. |
-| besides + **V-ing** | Besides [[singing]], IU also writes songs. |
-[box]
-❌ IU decided becoming a singer. → ✅ IU decided [[to become]] a singer.
-❌ Besides sing, she also acts. → ✅ Besides [[singing]], she also acts.
-[/box]
 
 === card
 tag: T2 Part B · Ming's Robot Dog

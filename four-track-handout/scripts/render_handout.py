@@ -34,6 +34,7 @@ EMOJI_FONT = "Segoe UI Emoji" if sys.platform == "win32" else "Apple Color Emoji
 
 BLACK = RGBColor(0, 0, 0)
 RED = RGBColor(0xFF, 0, 0)
+GREY = RGBColor(0x59, 0x59, 0x59)
 WHITE = RGBColor(0xFF, 0xFF, 0xFF)
 TASK_FILL = "D9D9D9"
 LABEL_FILL = "737373"
@@ -329,6 +330,11 @@ class Renderer:
         if self.mode == "teacher":
             self.para(text, color=RED, after=4)
 
+    def bloom(self, text):
+        """bloom: grey 10.5 pt tag, 教用版 only, sitting with the item below it."""
+        if self.mode == "teacher":
+            keep_with_next(self.para("🎯 Bloom：" + text, size=SMALL_PT, color=GREY, after=2))
+
     def box(self, text_lines):
         table = self.doc.add_table(rows=1, cols=1)
         table.alignment = WD_TABLE_ALIGNMENT.CENTER
@@ -513,6 +519,8 @@ def render_body(r, text):
             r.lines(n, parts[1] if len(parts) > 1 else None, parts[2] if len(parts) > 2 else None)
         elif line.lower().startswith("key:"):
             r.teacher_note(line.split(":", 1)[1].strip())
+        elif line.lower().startswith("bloom:"):
+            r.bloom(line.split(":", 1)[1].strip())
         elif line.lower().startswith("qr:"):
             r.qr(line.split(":", 1)[1].strip())
         elif line == "[box]":
@@ -537,6 +545,8 @@ def render_body(r, text):
             r.page_break()
         else:
             p = r.para(line)
+            if raw[:1] in " \t" and line.startswith("- "):
+                p.paragraph_format.left_indent = Inches(0.3)  # nested "  - " bullet
             # keep a question stem and its (A)/(B)/(C) option lines on one page
             nxt = next((l.strip() for l in lines[i + 1:] if l.strip()), "")
             if re.match(r"^\(?[A-D]\)", nxt) or re.match(r"^[a-d]\. ", nxt):

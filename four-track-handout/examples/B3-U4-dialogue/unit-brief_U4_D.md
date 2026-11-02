@@ -33,6 +33,8 @@ Yuki: Haha. Good idea.
 
 ## 文法焦點（Grammar Focus 1–2、Usage 1–2）
 
+> **2026-11-02 起講義不出文法題**（philosophy.md §4b）：本段只給老師參考；文法改在文法課講，視覺卡見 `U4/文法/LoiLo卡片/`。下方「四軌共用文法操作」為舊版紀錄，已不使用。
+
 1. 動詞＋**to V**：want / hope / plan / need to V（I hope **to be** …／I plan **to be** …／I want **to help** …）。
 2. 動詞＋**V-ing**：enjoy / keep / practice / finish V-ing（I enjoy **making** videos.／Just keep **practicing**.）。like / love / hate 兩者皆可（I hate **singing** …）。
 3. 動名詞當主詞：**Being** a singer is my dream job.

@@ -14,7 +14,7 @@ Goal (目標): 我會唸、會拼本課 18 個字，會用「時間火車」把�
 [/box]
 
 ## 任務一：🏠 單字建築師 (Word Architect) ＋ 🚦 紅綠燈與救援站
-flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
+flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
 ### ■ 暖身：提問風暴 (Question Storm)
 step: 👤 讀框裡的句子。
 [box]
@@ -31,6 +31,7 @@ Only 1 company said "Yes."（只有 1 家公司說「好」）
 step: 🧠 寫 3 個問題，中文或英文都可以。5 分鐘。
 問句開頭：Why 為什麼…？／How 怎麼…？／What 什麼…？／你會…嗎？
 ### ■ 我的問題 (My Questions)
+bloom: 創造（自己提問）
 small-table
 widths: 8 92
 | No. | 我的問題 My Question |
@@ -42,6 +43,7 @@ key: 學生可能寫出的問題：試鏡是什麼？／她為什麼不放棄？
 step: 🧠 在最好的問題旁畫 ⭐。
 step: 👥 唸給同桌聽，同桌選 1 題，寫在下面。
 ### ■ 我們這桌的問題 (Our Table Question)
+bloom: 評鑑（選出最好的問題）
 lines: 1 | Why didn't IU give up? 她為什麼不放棄？ | 同桌選出的問題（每桌可以不同）；任務二 D–F 最後要用課文回答它
 
 ### ■ 單字建築師
@@ -59,6 +61,7 @@ step: 🧠 讀下面的「切音節小秘訣」和範例。
 
 step: 🧠 每個字拍一拍，寫出 Claps 和 Sound chunks。Core Words 畫一個 My Image。KK 和中文用來檢查。
 ### ■ A. Core Words（10）— 每個字畫一個 My Image
+bloom: 理解＋應用（拍音節、切音、畫圖記意思）
 widths: 17 10 22 19 16 16
 | Word | Claps | Sound chunks | KK | Meaning | My Image |
 |---|---|---|---|---|---|
@@ -74,6 +77,7 @@ widths: 17 10 22 19 16 16
 | example | [[3|3]] | [[ex / am / ple|10]] | [ɪgˋzæmpḷ] | 榜樣 | |
 
 ### ■ B. Support Words（8）— My Image 選填
+bloom: 理解＋應用（拍音節、切音）
 widths: 17 10 22 19 16 16
 | Word | Claps | Sound chunks | KK | Meaning | My Image |
 |---|---|---|---|---|---|
@@ -106,6 +110,7 @@ key: 依老師要求，助念員只放教用版。可在帶唸 Core Words 時口
 
 step: 🧠 18 個字都做紅綠燈（C）。
 ### ■ C. 🚦 單字紅綠燈 (Word Traffic Light) — 18 個字全部都要分類
+bloom: 評鑑（誠實自評自己的學習）
 🟢 Go：我一看到就會唸、會拼、知道意思。　🟡 Almost：差一點。　🔴 Stop：我需要救援！
 small-table
 widths: 22 13 13 13 26 13
@@ -125,6 +130,7 @@ key: 紅綠燈沒有標準答案，依學生自評；請巡堂確認每個字都
 
 step: 🧠 選 3–4 個 🟡 或 🔴 的字，到救援站（D）救援。
 ### ■ D. 🛟 單字救援站 (Word Rescue Station)
+bloom: 應用＋評鑑（選適合自己的救援法）
 從 🟡 或 🔴 選 3–4 個字。每個字選一種救援方法，寫下你的筆記。
 ✨ A. 生活例句魔法　🎨 B. 小畫家記憶法　🔦 C. 錯點螢光筆　🔊 D. 諧音小幫手
 widths: 20 30 50
@@ -144,6 +150,7 @@ auditions → 🎨 小畫家記憶法：畫一個人拿麥克風、評審舉牌 
 
 step: 🧠 完成 IU 的時間火車（E）。
 ### ■ E. 🚂 時間火車：IU 的時間軸 (Timeline)
+bloom: 理解（找時間詞、排序）
 時間軸＝時間火車：每節車廂是一個時間點，依照先後排好。
 從框裡選字，填進時間軸。
 Word Bank: singer / 2007 / success / now
@@ -162,6 +169,7 @@ flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
 step: 👤 闔上課本，聽課文音檔 (CD2: 27-30)。
 step: 🧠 在 A 圈出聽到的字。
 ### ■ A. 三個核心句 (Core Sentences) — 圈出聽到的字
+bloom: 記憶（聽辨）
 1. In the seventh grade, she sang on stage for the first time and decided to become a {{singer* / teacher}}.
 　（七年級時，她第一次上台唱歌，並決定要成為歌手。）
 2. However, IU didn't {{give up* / sing}}.
@@ -171,6 +179,7 @@ step: 🧠 在 A 圈出聽到的字。
 
 step: 🧠 打開課本 pp. 79–80，回答 B 的 3 題，在課本畫線。
 ### ■ B. 課文問題 (Question Ladder) — 圈出答案，在課本畫線
+bloom: 理解（找證據）＋推論
 1. IU 的親戚對她的夢想做了什麼？
 They made {{fun of* / a cake for}} her dream.（嘲笑／做蛋糕）
 2. IU 參加了大約幾次試鏡？
@@ -180,6 +189,7 @@ IU is {{kind* / rich}}.（善良的／有錢的）
 
 step: 🧠 讀 C 的小故事，圈出時間詞。
 ### ■ C. 新故事挑戰 (A New Story)
+bloom: 應用（同一策略讀新故事）
 [box]
 **Ming's Robot Dog 小明的機器狗** 🤖🐶
 When Ming was ten, he took apart an old radio 📻. He loved fixing things.
@@ -207,6 +217,7 @@ step: 👥 和夥伴核對答案。
 step: 👤 AI 寫了 IU 的摘要。看每一句 AI 說的話。
 step: 🧠 翻到 pp. 79-80 看那一段。圈出課文真正說的（A、B 或 C）。
 ### ■ D. AI 偵探：課文怎麼說？(What does the text say?)
+bloom: 評鑑（回課文對照）
 ② 🤖 AI：She found her love for music in elementary school.（她在國小愛上音樂）
 看 Para 2：她在哪裡愛上音樂？
 {{(A) elementary school 國小 / (B) junior high school 國中* / (C) high school 高中}}
@@ -224,32 +235,38 @@ step: 🧠 翻到 pp. 79-80 看那一段。圈出課文真正說的（A、B 或 
 {{(A) 她想要更多粉絲 / (B) 課文沒說原因，只說她是年輕人的好榜樣* / (C) 她很有錢}}
 step: 🧠 比一比：AI 說的和課文一樣嗎？在 E 圈 ✓ 或 ✗。
 ### ■ E. AI 對嗎？(Is the AI right?)
+bloom: 評鑑（判斷 AI 對不對）
 widths: 25 25 25 25
 | ② | ④ | ⑥ | ⑦ |
 |---|---|---|---|
 | {{✓ / ✗*}} | {{✓* / ✗}} | {{✓ / ✗*}} | {{✓ / ✗*}} |
 step: 🧠 想一想：⑦ 錯在哪裡？勾 1 個。
+bloom: 分析（AI 為什麼錯）
 ⑦ 是：  [[x]] 課文沒說，AI 自己猜的。  □ 數字錯了。
 step: 🧠 勾選你的 AI 檢查規則。
 ### ■ F. 我的 AI 檢查規則 (My AI Check Rule)
+bloom: 評鑑（選自己的檢核規則）
 相信 AI 之前，我會……
 □ 回課文找同樣的字　□ 找出在哪一段　□ 問老師或同學
 key: 勾任一項都可以；鼓勵至少勾「回課文找同樣的字」。
 step: 🧠 回到任務一「我們這桌的問題」，現在你會回答了嗎？寫一句，並寫出在第幾段。
+bloom: 評鑑（用課文證據回答）
 我的回答：__________________________________  （Para ____）
 key: 例：這桌的問題「她為什麼不放棄？」→ 因為她想當歌手，一直練習、去了大約 20 次試鏡（Para 2–3）。
 step: 👥 和同桌核對 D、E。
 step: 📋 聽老師統整：新故事答案和 AI 檢查規則。
 ## 任務三：🏓 單字乒乓賽與夢想時間軸 (Word Ping Pong & My Dream Timeline)
-flow: 👤🧠 自學思考 → 👥 討論 → 📢 表達 → 📋 統整
+flow: 👤🧠 自學思考 → 👥 討論 → 📋 統整
 step: 👥 兩人一組玩乒乓賽：Level 1 指字說英文，Level 2 聽中文說英文。
 ### ■ A. 單字乒乓賽
+bloom: 記憶（快速提取單字）
 Word Bank: successful / Korean / music / seventh / decided / become / relatives / auditions / company / example / stage / fans / grade / song / believe / popular / acts / money
 Level 1：Student A 指單字 → Student B 說英文；換人。　✍️ Partner: ______________
 Level 2：Student A 說中文 → Student B 說英文；換人。　✍️ Partner: ______________
 
 step: 🧠 勾 1 個成功要素，完成 2 句夢想時間軸。
 ### ■ B. 我的夢想時間軸 (My Dream Timeline)
+bloom: 評鑑（選成功要素）＋創造（自己的夢想句）
 成功需要什麼？勾 1 個：
 □ hard work 努力　□ passion 熱忱　□ determination 毅力　□ talent 天賦
 Idea Bank: teacher 老師 / vet 獸醫 / cook 廚師 / singer 歌手 / nurse 護理師
@@ -259,15 +276,16 @@ widths: 26 74
 | 🚃 Now 現在 | Now, I want to [[become|8]] a ______________. |
 | 🚃 In 20____ | In 20____, I will be a ______________. I will not [[give up|8]]! |
 key: 第一句、第二句填入 Idea Bank 的職業即可；become、give up 為本課字。
-step: 📢 把 2 句唸給 2 位同學聽，請他們簽名。
-step: 📋 聽老師統整。
+step: 👥 把 2 句唸給 2 位同學聽，請他們簽名。
 ✍️ Partner 1: ______________　✍️ Partner 2: ______________
+step: 📋 聽老師統整：一句好的夢想句子。
 🌟 小挑戰收尾：我最難的單字是 __________；我成功把 __________ 從紅燈變綠燈啦！🎉
 
 ## 任務四：🔊 口說任務 (Reading Aloud Evaluation)
-flow: 👤 自學 → 📢 表達
+flow: 👤 自學
+bloom: 應用（朗讀核心字與核心句）
 step: 👤 掃 QR code，進入 S4 口說任務頁面。
-step: 📢 按下 🎙 錄音鍵：先唸 8 個核心字，再唸 3 個核心句。
+step: 👤 按下 🎙 錄音鍵：先唸 8 個核心字，再唸 3 個核心句。
 step: 👤 聽聽看自己的錄音，跟原音像不像？打勾後送出。
 qr: S4 recording: 8 core words + 3 core sentences
 widths: 40 60
@@ -278,10 +296,11 @@ Check Point: □ 聲音清楚　□ 每個字都完整　□ 3 句都唸完
 📌 小提醒：一定要大聲唸，老師要聽到你的聲音！錄音時別太快，清楚讀出每個音節。
 
 ## 任務五：🎥 影片偵探隊 (Reading Explanation)
-flow: 👤 自學 → 📋 統整
-step: 👤 掃 QR code，觀看影片。
+flow: 📋 統整（影片）→ 🧠 思考（筆記）
+bloom: 理解（整理筆記）＋評鑑（紅綠燈自評）
+step: 📋 掃 QR code，看老師的講解影片。
 step: 🧠 一邊看，一邊在講義第 72–73 頁寫下老師說的筆記。
-step: 📋 拍照上傳筆記。
+step: 拍照上傳筆記。
 qr: U4 Reading explanation video + notes upload
 I can put IU's story on a timeline (時間軸).　🟢 Yes / 🟡 Almost / 🔴 Need help
 I can understand "However, IU didn't give up."　🟢 Yes / 🟡 Almost / 🔴 Need help
@@ -292,28 +311,44 @@ I can understand "However, IU didn't give up."　🟢 Yes / 🟡 Almost / 🔴 N
 ## 任務一：🏠 單字建築師＋🚦紅綠燈與救援站＋🚂時間火車（26 分鐘）
 - 目的：建立「看字會唸、聽音會拼」；18 字全部取自本課 Reading；再用簡化時間軸體驗 timeline 策略。
 - 步驟：掃課本 QR 聽單字（CD2: 31）→ 帶全班拍 successful 範例 → 學生完成 Claps／Sound chunks → 兩兩核對 → 紅綠燈 18 字 → 救援 3–4 字 → 時間火車選字。KK 助念員（本教用版上方）可在帶唸時投影。
-- 📋 統整：重音（suc·CESS·ful、Ko·RE·an、de·CID·ed、be·COME、au·DI·tions 在第二音節；MU·sic、SEV·enth、COM·pa·ny 在第一音節）；時間軸 seventh grade → 2007 → 2010 → now（與 S1–S3 同）。
+- Bloom：理解＋應用（拍音節、切音）＋評鑑（紅綠燈、救援站）＋理解（時間火車排序）｜會考能力：字彙辨識、拼讀、時間序列。
+- 📋 統整腳本（任務一結尾；S4 的時間火車在最後，所以不另設中途停點）：
+  - 整理：巡堂看到最常切錯的 2–3 個字。
+  - 點出重點：重音（suc·CESS·ful、Ko·RE·an、de·CID·ed、be·COME、au·DI·tions 在第二音節；MU·sic、SEV·enth、COM·pa·ny 在第一音節）；時間軸 seventh grade → 2007 → 2010 → now（與 S1–S3 同）。
+  - 連回核心問題：IU 從七年級到 2010 才成功——只是很會唱就夠嗎？
 - 常見錯誤：successful 拼成 sucessful；Claps 與切塊數不一致。
-- 新增活動｜暖身提問風暴（約 6 分鐘）：在單字建築師之前。學生讀提問焦點「IU 去了大約 20 次試鏡，只有 1 家公司說好」，寫 3 個問題（中文可），同桌選 1 題寫進「我們這桌的問題」就停（不上黑板、不全班投票）。這是小探究循環的「提問」階段，AI 不出場。
+- 暖身提問風暴（約 6 分鐘）：在單字建築師之前。學生讀提問焦點「IU 去了大約 20 次試鏡，只有 1 家公司說好」，寫 3 個問題（中文可），同桌選 1 題寫進「我們這桌的問題」就停（不上黑板、不全班投票）。這是小探究循環的「提問」階段，AI 不出場。
 
 ## 任務二：🔎 閱讀小偵探（25 分鐘）
 - 目的：在原文中聽出 3 核心句；在課本畫證據回答 3 題；用時間軸讀懂迷你新故事。
 - 步驟：播 CD2: 27–30（闔書）圈 A → 開書做 B 並畫線 → 讀小故事（先帶唸 5 個生字、圈時間詞）→ 2 題＋時間軸 → 兩兩核對。
-- 📋 統整：核心句 2 However 前後相反（親戚嘲笑 ↔ 沒放棄）；核心句 3 besides＋V-ing；小故事 1B 2A，時間軸 radio → first prize → teaches。
+- Bloom：記憶（聽辨核心句）＋理解／推論（課文問題）＋應用（新故事時間軸）＋評鑑（AI 偵探）｜會考能力：聽力細節、推論、時間序列。
+- 📋 統整腳本（任務二結尾）：
+  - 整理：小故事 1B 2A，時間軸 radio → first prize → teaches；AI 偵探 ② ✗、④ ✓、⑥ ✗、⑦ ✗。
+  - 點出好證據：核心句 2 However 前後相反（親戚嘲笑 ↔ 沒放棄）；核心句 3 besides＝「除了…還」，所以 IU 還在唱歌（⑥ 錯在這裡）。
+  - 連回核心問題：IU 被嘲笑還是沒放棄——「很會唱」以外，她還需要什麼？
+  - 規則：先回課文找到同一句，再相信 AI。
 - 常見錯誤：C 第 1 題選 C（看到 2016 就選，沒讀 two years later）。
-- 新增活動｜D–F AI 偵探（約 10 分鐘）：每題先看 AI 的句子，再翻課文那一段三選一，最後判斷 AI 對不對。答案：② B ✗、④ C ✓、⑥ B ✗、⑦ B ✗。⑦「課文沒說，AI 自己猜」是最重要的觀念。最後回到任務一「我們這桌的問題」寫一句回答。
+- D–F AI 偵探（約 10 分鐘）：每題先看 AI 的句子，再翻課文那一段三選一，最後判斷 AI 對不對。答案：② B ✗、④ C ✓、⑥ B ✗、⑦ B ✗。⑦「課文沒說，AI 自己猜」是最重要的觀念。最後回到任務一「我們這桌的問題」寫一句回答。
 
 ## 任務三：🏓 單字乒乓賽與夢想時間軸（10 分鐘）
 - 目的：單字自動化提取；SEL＋生涯——和 S1–S3 同主題，用 2 句說自己的夢想與不放棄。
 - 步驟：Level 1、Level 2 各 2 分鐘 → 勾成功要素 → 2 句時間軸 → 唸給 2 位同學。
-- 📋 統整：全班一起說 I will not give up!
+- Bloom：記憶（乒乓提取）＋評鑑（選成功要素）＋創造（自己的夢想句）｜會考能力：口說表達。
+- 📋 統整腳本：
+  - 整理：請 2 位學生唸自己的 2 句。
+  - 點出好句子：有寫出夢想職業和年份的句子最完整。
+  - 連回核心問題：全班一起說 I will not give up!
 - 常見錯誤：become 拼成 becom；年份寫成過去的年份。
 
 ## 任務四：🔊 口說任務（課後）
+- Bloom：應用（朗讀）｜會考能力：發音、口說。
 - 評分重點：8 核心字＋ 3 核心句清楚完整；不要求全文。
 
 ## 任務五：🎥 影片偵探隊（課後）
-- 目的：影片複習時間軸與核心句；兩題自評作為下一堂再教依據。
+- 目的：影片（老師錄好的統整）複習時間軸與核心句；兩題自評作為下一堂再教依據。
+- Bloom：理解（整理筆記）＋評鑑（紅綠燈自評）｜會考能力：歸納。
+- 下一堂開場：看上傳筆記與自評，🔴 多的字先再帶唸。
 
 ## 課前檢核
 - □ 班級 QR 已內建，請試掃一次。 □ CD2: 27–31 可播放。 □ 3 核心句與 S1–S3 一致。 □ ⚠ KK 已對照課本 Word Bank。
